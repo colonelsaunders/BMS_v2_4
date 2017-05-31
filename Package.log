@@ -1,0 +1,204 @@
+
+                                    Packager
+                                    --------
+
+                         04:53 PM Thursday, May 18, 2017
+           Job Name: C:\PADS Projects\DxProjects\BMS_v2_4\BMS_v2_4.prj
+
+
+     Packager     Version: 020806.00
+
+        Commandline is: "C:\MentorGraphics\PADSVX.2\SDD_HOME\wg\win32\bin\Package.exe -j"C:\PADS Projects\DxProjects\BMS_v2_4\BMS_v2_4.prj"  -n"Board1"  -a -Replace -l"C:\PADS Projects\DxProjects\BMS_v2_4\Package.log" "
+
+     The Common Database is at "C:\PADS Projects\DxProjects\BMS_v2_4\database".
+
+     The Root of this design is "Schematic1".
+
+     The Front End Snapshot of this design is "DxD".
+
+     The PCB Design Path of this design is at "C:\PADS Projects\DxProjects\BMS_v2_4\Board2.pcb".
+
+     The Central Library is at "C:\MentorGraphics\PADSVX.2\SDD_HOME\Libraries\xDX_Designer\StarterLibrary\StarterLibrary.lmc".
+
+     Unable to determine the Disable Repackage status.
+     !Repackaging will be allowed!
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the iCDB and to replace any duplicates found in the
+      Target PDB.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be respected.
+
+     The cross mapping of symbol pin names to Part Number pin
+      numbers will be checked for packaged symbols and mapped correctly
+      for unpackaged symbols.
+
+     Properties that have been checked off in the Property Definition Editor
+      found at Library Manager/Common Properties will be checked for value
+      differences between the PartsDB and the non-null properties on symbols.
+     Those properties checked off (other than Part Number)
+      will not be transferred from the PartsDB to symbols.
+     The following properties were checked off in the Property Definition Editor:
+       "PinLabel"
+       "System Component"
+       "Pkg Group"
+       "Connector Mating Part"
+       "Connector Gender"
+       "EPFIXEDWIDTH"
+       "EPFIXEDLENGTH"
+       "Term"
+       "SIM_MODEL"
+       "SIM_MODEL_FILE"
+       "Array Component"
+       "Use Verilog"
+       "Order"
+       "Parametric"
+       "Value2"
+       "Tech"
+       "*Free Label 2"
+       "*Free Label 1"
+       "DFT.Nail Number"
+       "DFT.Nail Diameter"
+       "Voltage"
+       "PowerGround"
+       "DFT.Nail Count Per Net"
+       "UNIT"
+       "$$Internal_system_attribute_device_mapped_to_$$"
+       "SYMTAG"
+       "HyperLynx.Library"
+       "ROTATION"
+       "QUAD_MODEL"
+       "PKG_LOCK"
+       "NC"
+       "Manufacturer #2"
+       "Manufacturer #1"
+       "HyperLynx.Model"
+       "GLUE"
+       "Geometry.Height"
+       "Drawing Title"
+       "Drawing Revision"
+       "RatedPower"
+       "SupplierPN"
+       "IBIS"
+       "Part Label"
+       "VHDL Model"
+       "Verilog Model"
+       "Tolerance"
+       "Part Number"
+       "Value"
+       "Part Name"
+
+	Checking for errors in the ICDB...
+
+	No errors found.  Proceeding with packaging...
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Integration\LocalPartsDB.pdb
+
+     Number of Part Numbers: 41
+          Part Numb: ACS770LCB -> Vend Part: ACS770LCB 
+          Part Numb: BM06B-GHS-TBT(LF)(SN)(N) -> Vend Part: BM06B-GHS-TBT(LF)(SN)(N) 
+          Part Numb: CAP_ARRAY_4X -> Vend Part: CAP_ARRAY_4X 
+          Part Numb: CPC1510 -> Vend Part: CPC1510 
+          Part Numb: C0603 -> Vend Part: C0603 
+          Part Numb: C0603-105-16-10 -> Vend Part: C0603-105-16-10 
+          Part Numb: C0805 -> Vend Part: C0805 
+          Part Numb: DIGIKEY_BAT46W_7FDICT_ND -> Vend Part: DIGIKEY_BAT46W_7FDICT_ND 
+          Part Numb: DIGIKEY_FZT653CT_ND -> Vend Part: DIGIKEY_FZT653CT_ND 
+          Part Numb: DIGIKEY_LM3480IM3_3_3_NOPBCT_ND -> Vend Part: DIGIKEY_LM3480IM3_3_3_NOPBCT_ND 
+          Part Numb: DIGIKEY_RS1B_FDICT_ND -> Vend Part: DIGIKEY_RS1B_FDICT_ND 
+          Part Numb: DIGIKEY_SI2303CDS_T1_GE3CT_ND -> Vend Part: DIGIKEY_SI2303CDS_T1_GE3CT_ND 
+          Part Numb: DIGIKEY_SRN1060_151MCT_ND -> Vend Part: DIGIKEY_SRN1060_151MCT_ND 
+          Part Numb: DIGIKEY_296_9215_2_ND -> Vend Part: DIGIKEY_296_9215_2_ND 
+          Part Numb: DIGIKEY_445_6840_6_ND -> Vend Part: DIGIKEY_445_6840_6_ND 
+          Part Numb: DIGIKEY_490_3373_1_ND -> Vend Part: DIGIKEY_490_3373_1_ND 
+          Part Numb: HDC1010 -> Vend Part: HDC1010 
+          Part Numb: HFBR-1521Z -> Vend Part: HFBR-1521Z 
+          Part Numb: HFBR-2521Z -> Vend Part: HFBR-2521Z 
+          Part Numb: HX1188NLT -> Vend Part: HX1188NLT 
+          Part Numb: LITE-ON_LTST-C190KGKT -> Vend Part: LITE-ON_LTST-C190KGKT 
+          Part Numb: LITTLEFUSE_SMD_1 -> Vend Part: LITTLEFUSE_SMD_1 
+          Part Numb: LTC6804-1 -> Vend Part: LTC6804-1 
+          Part Numb: LTC7138 -> Vend Part: LTC7138 
+          Part Numb: L0603 -> Vend Part: L0603 
+          Part Numb: NIC_NRC100J330TRF -> Vend Part: NIC_NRC100J330TRF 
+          Part Numb: NMOS_SOT_23_3 -> Vend Part: NMOS_SOT_23_3 
+          Part Numb: NX3225GA-25MHZ -> Vend Part: NX3225GA-25MHZ 
+          Part Numb: R-US_R0805 -> Vend Part: R-US_R0805 
+          Part Numb: R0603 -> Vend Part: R0603 
+          Part Numb: R0603-100-5-025 -> Vend Part: R0603-100-5-025 
+          Part Numb: SN74LVC2G04DRLR_DUAL_INV -> Vend Part: SN74LVC2G04DRLR_DUAL_INV 
+          Part Numb: SN74LVC2G34DRLR_DUAL_BUFF -> Vend Part: SN74LVC2G34DRLR_DUAL_BUFF 
+          Part Numb: TFM-102-01-X-S-WT -> Vend Part: TFM-102-01-X-S-WT 
+          Part Numb: TFM-105-01-XXX-D-REX-WT -> Vend Part: TFM-105-01-XXX-D-REX-WT 
+          Part Numb: TFM-110-01-XXX-D-REX-WT -> Vend Part: TFM-110-01-XXX-D-REX-WT 
+          Part Numb: TFM-115-01-XXX-D-REX-WT -> Vend Part: TFM-115-01-XXX-D-REX-WT 
+          Part Numb: TM4C129XNCZAD-212-BGA_6 -> Vend Part: TM4C129XNCZAD-212-BGA_6 
+          Part Numb: TPS7A4533 -> Vend Part: TPS7A4533 
+          Part Numb: 5MM_MOUNT_PAD -> Vend Part: 5MM_MOUNT_PAD 
+          Part Numb: 150MIL_NP_HOLE -> Vend Part: 150MIL_NP_HOLE 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between non-null symbol properties and PartsDB properties,
+      but only for those properties checked off in the Property Definition Editor
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 398 Symbols:
+             398  ***********************************************
+             350  **************************************************
+             300  **************************************************
+             250  **************************************************
+             200  **************************************************
+             150  **************************************************
+             100  **************************************************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     276 nets were found containing 1118 pins
+     398 components were found
+
+     Parsed netlist - Augmenting..
+
+     Augmented - Adding phantom pins....
+
+     Numbering Nets....
+
+     Checking Pins....
+
+     Packaging has been successfully tested with no errors or warnings.
+
+     Updating the Common DataBase
+
+     A BAM WasIs List: Integration\CDBBackAnno.bam has been created.
+
+The Common DataBase has been successfully updated.
+
+     Packager finished successfully.
+     !THE iCDB IS UP-TO-DATE!
+     
+     An unused pin and gate report has been written to Integration\UnusedPins.txt
+     An unused gate report for gates not in schematic has been written to Integration\UnusedGates.txt
+     An augmented pin report has been written to Integration\AugmentedPins.txt.

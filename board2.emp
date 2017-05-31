@@ -1,0 +1,203 @@
+.HEADER
+LIBRARY_FILE    3.0    "PADS Layout VX.2"    2017/01/10.12:51:48    1
+.END_HEADER
+.ELECTRICAL
+LTC-SSOP48-5_3MM                             LTC6804-1                                    THOU      47.24                    
+0     -161.42                  -259.91                  0     
+0     161.42                   -259.91                  0     
+0     161.42                   259.91                   0     
+0     -161.42                  259.91                   0     
+0     -161.42                  -259.91                  0     
+.END_ELECTRICAL
+.ELECTRICAL
+RESC1608X50AN                                R0603-100-5-025                              THOU      19.69                    
+0     -62.01                   -30.51                   0     
+0     62.01                    -30.51                   0     
+0     62.01                    30.51                    0     
+0     -62.01                   30.51                    0     
+0     -62.01                   -30.51                   0     
+.END_ELECTRICAL
+.ELECTRICAL
+SMA                                          DIGIKEY_RS1B_FDICT_ND                        THOU      0.0                      
+0     -183.04                  -70.48                   0     
+0     129.04                   -70.48                   0     
+0     129.04                   70.48                    0     
+0     -183.04                  70.48                    0     
+0     -183.04                  -70.48                   0     
+.END_ELECTRICAL
+.ELECTRICAL
+CAPC1608X86N                                 C0603-105-16-10                              THOU      33.86                    
+0     -62.01                   -30.51                   0     
+0     62.01                    -30.51                   0     
+0     62.01                    30.51                    0     
+0     -62.01                   30.51                    0     
+0     -62.01                   -30.51                   0     
+.END_ELECTRICAL
+.ELECTRICAL
+SOD123                                       DIGIKEY_BAT46W_7FDICT_ND                     THOU      0.0                      
+0     -115.74                  -39.87                   0     
+0     102.79                   -39.87                   0     
+0     102.79                   39.87                    0     
+0     -115.74                  39.87                    0     
+0     -115.74                  -39.87                   0     
+.END_ELECTRICAL
+.ELECTRICAL
+LITTLEFUSE_SMD_1                             LITTLEFUSE_SMD_1                             THOU      0.0                      
+0     -263.94                  -83.94                   0     
+0     263.94                   -83.94                   0     
+0     263.94                   83.94                    0     
+0     -263.94                  83.94                    0     
+0     -263.94                  -83.94                   0     
+.END_ELECTRICAL
+.ELECTRICAL
+5MM_MOUNT_PAD                                5MM_MOUNT_PAD                                THOU      0.0                      
+0     -250.0                   -250.0                   0     
+0     250.0                    -250.0                   0     
+0     250.0                    250.0                    0     
+0     -250.0                   250.0                    0     
+0     -250.0                   -250.0                   0     
+.END_ELECTRICAL
+.ELECTRICAL
+LED_LTST-C190KGKT                            LITE-ON_LTST-C190KGKT                        THOU      0.0                      
+0     -57.15                   -27.62                   0     
+0     57.15                    -27.62                   0     
+0     57.15                    27.62                    0     
+0     -57.15                   27.62                    0     
+0     -57.15                   -27.62                   0     
+.END_ELECTRICAL
+.ELECTRICAL
+SOT223                                       DIGIKEY_FZT653CT_ND                          THOU      0.0                      
+0     -190.0                   -170.5                   0     
+0     145.0                    -170.5                   0     
+0     145.0                    170.5                    0     
+0     -190.0                   170.5                    0     
+0     -190.0                   -170.5                   0     
+.END_ELECTRICAL
+.ELECTRICAL
+HX1188NLT                                    HX1188NLT                                    THOU      235.0                    
+0     -218.94                  -228.94                  0     
+0     218.94                   -228.94                  0     
+0     218.94                   228.94                   0     
+0     -218.94                  228.94                   0     
+0     -218.94                  -228.94                  0     
+.END_ELECTRICAL
+.ELECTRICAL
+LTC7138                                      LTC7138                                      THOU      34.0                     
+0     -117.94                  -103.94                  0     
+0     117.94                   -103.94                  0     
+0     117.94                   103.94                   0     
+0     -117.94                  103.94                   0     
+0     -117.94                  -103.94                  0     
+.END_ELECTRICAL
+.ELECTRICAL
+CAP_2220                                     DIGIKEY_445_6840_6_ND                        THOU      98.43                    
+0     -125.98                  -110.24                  0     
+0     125.98                   -110.24                  0     
+0     125.98                   110.24                   0     
+0     -125.98                  110.24                   0     
+0     -125.98                  -110.24                  0     
+.END_ELECTRICAL
+.ELECTRICAL
+G-31                                         DIGIKEY_490_3373_1_ND                        THOU      0.0                      
+0     -110.0                   -44.5                    0     
+0     84.0                     -44.5                    0     
+0     84.0                     44.5                     0     
+0     -110.0                   44.5                     0     
+0     -110.0                   -44.5                    0     
+.END_ELECTRICAL
+.ELECTRICAL
+SAMTEC_IPL1-102-01-XXX-S-RA                  SAMTEC_IPL1-102-01-XXX-S-RA                  THOU      0.0                      
+0     -230.05                  -430.0                   0     
+0     230.05                   -430.0                   0     
+0     230.05                   5.0                      0     
+0     -230.05                  5.0                      0     
+0     -230.05                  -430.0                   0     
+.END_ELECTRICAL
+.ELECTRICAL
+61083-041402LF                               61083-041402LF                               THOU      0.0                      
+0     -429.63                  -118.61                  0     
+0     429.63                   -118.61                  0     
+0     429.63                   118.61                   0     
+0     -429.63                  118.61                   0     
+0     -429.63                  -118.61                  0     
+.END_ELECTRICAL
+.ELECTRICAL
+WEIDMULLER_16PIN_TB                          WEIDMULLER_16PIN_TB                          THOU      0.0                      
+0     -53.94                   -53.94                   0     
+0     2123.94                  -53.94                   0     
+0     2123.94                  453.94                   0     
+0     -53.94                   453.94                   0     
+0     -53.94                   -53.94                   0     
+.END_ELECTRICAL
+.ELECTRICAL
+ACS770LCB                                    ACS770LCB                                    THOU      0.0                      
+0     -354.5                   -45.0                    0     
+0     354.5                    -45.0                    0     
+0     354.5                    921.5                    0     
+0     -354.5                   921.5                    0     
+0     -354.5                   -45.0                    0     
+.END_ELECTRICAL
+.ELECTRICAL
+0805                                         C0805                                        THOU      0.0                      
+0     -80.0                         -35.0                         0     
+0     80.0                          -35.0                         0     
+0     80.0                          35.0                          0     
+0     -80.0                         35.0                          0     
+0     -80.0                         -35.0                         0     
+.END_ELECTRICAL
+.ELECTRICAL
+TO-236                                       DIGIKEY_SI2303CDS_T1_GE3CT_ND                THOU      0.0                      
+0     -118.0                   -79.0                    0     
+0     73.0                     -79.0                    0     
+0     73.0                     79.0                     0     
+0     -118.0                   79.0                     0     
+0     -118.0                   -79.0                    0     
+.END_ELECTRICAL
+.ELECTRICAL
+150MIL_NP_HOLE                               150MIL_NP_HOLE                               THOU      0.0                      
+0     -75.0                    -75.0                    0     
+0     75.0                     -75.0                    0     
+0     75.0                     75.0                     0     
+0     -75.0                    75.0                     0     
+0     -75.0                    -75.0                    0     
+.END_ELECTRICAL
+.ELECTRICAL
+MF03A                                        DIGIKEY_LM3480IM3_3_3_NOPBCT_ND              THOU      0.0                      
+0     -118.0                   -79.0                    0     
+0     73.0                     -79.0                    0     
+0     73.0                     79.0                     0     
+0     -118.0                   79.0                     0     
+0     -118.0                   -79.0                    0     
+.END_ELECTRICAL
+.ELECTRICAL
+IND_BOURNS_SRN1060                           DIGIKEY_SRN1060_151MCT_ND                    THOU      0.0                      
+0     -235.0                   -216.0                   0     
+0     212.0                    -216.0                   0     
+0     212.0                    216.0                    0     
+0     -235.0                   216.0                    0     
+0     -235.0                   -216.0                   0     
+.END_ELECTRICAL
+.ELECTRICAL
+2512                                         NIC_NRC100J330TRF                            THOU      0.0                      
+0     75.0                          162.5                         0     
+0     -75.0                         162.5                         0     
+0     -75.0                         -162.5                        0     
+0     75.0                          -162.5                        0     
+0     75.0                          162.5                         0     
+.END_ELECTRICAL
+.ELECTRICAL
+CPC1510                                      CPC1510                                      THOU      175.0                    
+0     -221.44                  -166.44                  0     
+0     221.44                   -166.44                  0     
+0     221.44                   166.44                   0     
+0     -221.44                  166.44                   0     
+0     -221.44                  -166.44                  0     
+.END_ELECTRICAL
+.ELECTRICAL
+AFBR-5972Z                                   AFBR-5972Z                                   THOU      629.92                   
+0     -190.35                  -687.01                  0     
+0     539.96                   -687.01                  0     
+0     539.96                   202.76                   0     
+0     -190.35                  202.76                   0     
+0     -190.35                  -687.01                  0     
+.END_ELECTRICAL

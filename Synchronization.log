@@ -1,0 +1,2469 @@
+
+_______________________________________________________________________________ Log session started at: Thursday, May 18, 2017 16:53:35
+                                                                                
+DBSynch - [16:53:35] INFO: Component synchronization has been started.
+DBSynch - [16:53:35] INFO: Merge direction: PCB database shall be updated (iCDB snapshot shall stay untouched).
+DBSynch - [16:53:35] INFO: Initializing iCDB proxy wrappers.
+DBSynch - [16:53:35] INFO: iCDB components found: 398	Number of created wrappers: 398
+DBSynch - [16:53:35] INFO: Initializing PCB proxy wrappers.
+DBSynch - [16:53:35] INFO: PCB components found: 398	Number of created wrappers: 398
+DBSynch - [16:53:35] INFO: Matching components.
+DBSynch - [16:53:35] INFO: Performing non-LDD operations on components.
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U1. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U1. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R180. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R180. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R148. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R148. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R1. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R1. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R192. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R192. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D27. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R109. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R109. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R37. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R37. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R38. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R38. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C13. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C13. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D25. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R110. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R110. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R39. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R39. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R40. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R40. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R41. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R41. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R42. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R42. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D28. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R193. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R193. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, F1. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, F2. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, F3. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, J4. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, J1. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, J2. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, L2. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, L2. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U16. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C46. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C46. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C47. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C47. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, J11. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R196. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R196. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R111. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R111. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R112. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R112. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D31. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R149. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R149. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R150. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R150. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R43. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R43. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R44. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R44. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R45. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R45. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R46. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R46. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R47. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R47. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R48. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R48. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R49. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R49. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C14. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C14. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C15. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C15. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C16. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C16. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U27. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R151. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R151. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R152. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R152. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C42. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C42. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C43. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C43. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C44. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C44. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C45. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C45. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U29. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U29. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R133. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R133. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R134. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R134. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C33. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C33. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C34. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C34. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U30. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U30. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R167. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R167. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C51. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C51. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C62. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C84. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C84. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R53. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R53. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U42. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U42. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C85. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C85. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C69. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C69. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C70. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C70. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R177. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R177. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C82. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C82. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C83. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C83. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U45. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R178. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R178. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C53. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C53. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R99. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R99. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R100. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R100. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R101. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R101. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R102. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R102. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R103. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R103. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R104. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R104. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R105. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R105. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R106. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R106. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R107. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R107. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R113. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R113. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R114. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R114. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R2. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R2. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R3. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R3. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R4. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R4. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R5. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R5. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R6. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R6. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R7. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R7. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R8. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R8. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R9. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R9. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R10. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R10. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R11. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R11. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R12. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R12. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R13. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R13. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R14. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R14. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R15. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R15. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R16. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R16. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R17. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R17. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R18. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R18. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R19. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R19. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R20. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R20. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R21. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R21. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R22. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R22. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R23. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R23. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R24. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R24. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R25. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R25. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R26. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R26. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R27. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R27. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R28. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R28. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R29. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R29. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R30. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R30. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R31. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R31. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R32. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R32. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R33. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R33. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R34. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R34. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R35. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R35. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R36. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R36. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R115. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R115. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R116. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R116. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R117. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R117. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R118. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R118. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R119. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R119. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R120. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R120. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R121. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R121. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R122. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R122. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R123. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R123. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R124. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R124. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R125. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R125. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, Y1. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C48. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C49. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C52. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C58. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C59. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R209. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R209. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C63. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C64. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C65. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U3. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U4. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U5. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U6. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U7. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U8. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U9. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U10. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U11. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U12. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U13. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U14. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C1. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C1. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C2. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C2. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C3. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C3. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C4. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C4. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C5. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C5. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C6. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C6. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C7. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C7. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C8. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C8. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C9. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C9. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C10. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C10. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C11. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C11. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C12. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C12. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R126. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R126. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R127. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R127. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R128. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R128. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R129. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R129. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R130. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R130. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R131. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R131. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R132. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R132. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R179. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R179. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, J3. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U49. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C54. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C54. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C55. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C55. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U46. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R135. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R135. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R136. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R136. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R137. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R137. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R138. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R138. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R139. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R139. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R140. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R140. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R141. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R141. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R142. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R142. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R143. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R143. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R144. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R144. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R145. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R145. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R146. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R146. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R147. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R147. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C35. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C35. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C36. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C36. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C37. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C37. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C38. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C38. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C39. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C39. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C40. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C40. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C41. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C41. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C66. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, L1. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C50. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C50. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U15. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R210. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R210. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, F4. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, J6. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C56. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C56. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U39. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U39. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C67. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C67. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R197. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R197. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C68. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C68. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U2. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U2. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R211. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R211. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R51. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R51. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R50. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R50. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R52. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R52. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R54. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R54. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C72. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C72. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C73. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C73. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R57. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R57. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C74. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C74. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C75. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C75. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R60. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R60. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C76. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C76. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R62. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R62. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R63. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R63. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R64. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R64. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R65. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R65. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R66. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R66. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R67. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R67. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R68. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R68. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R69. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R69. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R70. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R70. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R71. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R71. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R72. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R72. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R73. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R73. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R74. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R74. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R75. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R75. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R76. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R76. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R77. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R77. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R78. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R78. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R79. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R79. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R80. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R80. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R81. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R81. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R82. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R82. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R83. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R83. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R84. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R84. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R85. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R85. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R86. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R86. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R87. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R87. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R88. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R88. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R89. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R89. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R90. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R90. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R91. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R91. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R92. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R92. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R93. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R93. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R94. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R94. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R95. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R95. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R96. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R96. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R97. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R97. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R98. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R98. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C77. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C77. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C78. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C78. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C71. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C71. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C79. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C79. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R200. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R200. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R201. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R201. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R198. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R198. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R199. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R199. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U52. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U52. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U53. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U53. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C80. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C80. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C81. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C81. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D37. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R212. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R212. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R203. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R203. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R204. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R204. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D34. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R205. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U18. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R168. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R168. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R55. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R55. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R56. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R56. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D5. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D4. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R58. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R58. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R59. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R59. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R61. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R61. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R108. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R108. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U19. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U20. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U21. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U22. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U23. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U24. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U25. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U26. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C17. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C17. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C18. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C18. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C19. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C19. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C20. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C20. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C21. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C21. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C22. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C22. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C23. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C23. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C24. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C24. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C25. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C25. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C26. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C26. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C27. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C27. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C28. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C28. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C29. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C29. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C30. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C30. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C31. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C31. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C32. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C32. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D26. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D8. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D1. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U28. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U50. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U51. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R165. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R165. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R166. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R166. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R181. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R181. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R182. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R182. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R183. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R183. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R184. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R184. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R185. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R185. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R186. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R186. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R187. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R187. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C57. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C57. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D13. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U48. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U48. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U54. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D2. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D9. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D3. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D7. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D6. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D11. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D12. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D10. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D23. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D24. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D14. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D15. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D16. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D17. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D19. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D21. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D18. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D22. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D29. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D20. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R157. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R156. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R160. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R153. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R154. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R161. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R155. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R159. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R158. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R163. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R164. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R162. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R175. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R176. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D30. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D32. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D33. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R169. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R171. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R173. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R170. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R174. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R188. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R188. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R172. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R189. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R189. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R190. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R190. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R191. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R191. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R194. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R194. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R195. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R195. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R202. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R202. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C86. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C86. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U17. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U17. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R213. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R213. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, J5. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R206. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R206. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R207. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R207. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D35. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, D36. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C60. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C60. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C61. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, C61. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U31. Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U31. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U32. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U33. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U34. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U35. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, R208. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U70. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U71. Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Performing LDD operations on components (and their pins).
+DBSynch - [16:53:35] INFO: No removal has been performed due to lack of unmatched objects.
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U1
+DBSynch - [16:53:35] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:35] INFO: Adjusting an ODBComponent, U1
+DBSynch - [16:53:35] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:35] INFO: Part 'LTC6804-1' will be updated from library.
+DBSynch - [16:53:36] INFO: Adjusting an ODBComponent, R180
+DBSynch - [16:53:36] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:36] INFO: Adjusting an ODBComponent, R180
+DBSynch - [16:53:36] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:36] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:44] INFO: Adjusting an ODBComponent, R148
+DBSynch - [16:53:44] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:44] INFO: Adjusting an ODBComponent, R148
+DBSynch - [16:53:44] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:44] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:44] INFO: Adjusting an ODBComponent, R1
+DBSynch - [16:53:44] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:44] INFO: Adjusting an ODBComponent, R1
+DBSynch - [16:53:44] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:44] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:44] INFO: Adjusting an ODBComponent, R192
+DBSynch - [16:53:44] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:44] INFO: Adjusting an ODBComponent, R192
+DBSynch - [16:53:44] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:44] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:44] INFO: Adjusting an ODBComponent, D27
+DBSynch - [16:53:44] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:44] INFO: Part 'DIGIKEY_RS1B_FDICT_ND' will be updated from library.
+DBSynch - [16:53:44] INFO: Adjusting an ODBComponent, R109
+DBSynch - [16:53:44] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:44] INFO: Adjusting an ODBComponent, R109
+DBSynch - [16:53:44] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:44] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:44] INFO: Adjusting an ODBComponent, R37
+DBSynch - [16:53:44] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:44] INFO: Adjusting an ODBComponent, R37
+DBSynch - [16:53:44] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:44] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:44] INFO: Adjusting an ODBComponent, R38
+DBSynch - [16:53:44] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:44] INFO: Adjusting an ODBComponent, R38
+DBSynch - [16:53:44] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:44] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:44] INFO: Adjusting an ODBComponent, C13
+DBSynch - [16:53:44] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:44] INFO: Adjusting an ODBComponent, C13
+DBSynch - [16:53:44] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:44] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, D25
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'DIGIKEY_BAT46W_7FDICT_ND' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, R110
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, R110
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, R39
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, R39
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, R40
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, R40
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, R41
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, R41
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, R42
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, R42
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, D28
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'DIGIKEY_RS1B_FDICT_ND' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, R193
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, R193
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, F1
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'LITTLEFUSE_SMD_1' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, F2
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'LITTLEFUSE_SMD_1' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, F3
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'LITTLEFUSE_SMD_1' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, J4
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part '5MM_MOUNT_PAD' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, J1
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'TFM-115-01-XXX-D-REX-WT' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, J2
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'TFM-105-01-XXX-D-REX-WT' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, L2
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, L2
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'L0603' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, U16
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'BM06B-GHS-TBT(LF)(SN)(N)' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, C46
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, C46
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, C47
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, C47
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, J11
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'TFM-110-01-XXX-D-REX-WT' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, R196
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, R196
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, R111
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, R111
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, R112
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, R112
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:45] INFO: Adjusting an ODBComponent, D31
+DBSynch - [16:53:45] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:45] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R149
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R149
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R150
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R150
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R43
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R43
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R44
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R44
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R45
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R45
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R46
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R46
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R47
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R47
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R48
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R48
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R49
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R49
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C14
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C14
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C15
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C15
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C16
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C16
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, U27
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'DIGIKEY_FZT653CT_ND' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R151
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R151
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R152
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R152
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C42
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C42
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C43
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C43
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C44
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C44
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C45
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C45
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, U29
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, U29
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'HX1188NLT' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R133
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R133
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R134
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R134
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C33
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C33
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C34
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C34
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, U30
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, U30
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'LTC7138' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R167
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, R167
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C51
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C51
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'DIGIKEY_445_6840_6_ND' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C62
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'DIGIKEY_490_3373_1_ND' will be updated from library.
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C84
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:46] INFO: Adjusting an ODBComponent, C84
+DBSynch - [16:53:46] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:46] INFO: Part 'C0603' will be updated from library.
+DBSynch - [16:53:47] INFO: Adjusting an ODBComponent, R53
+DBSynch - [16:53:47] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:47] INFO: Adjusting an ODBComponent, R53
+DBSynch - [16:53:47] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:47] INFO: Part 'R0603' will be updated from library.
+DBSynch - [16:53:55] INFO: Adjusting an ODBComponent, U42
+DBSynch - [16:53:55] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:55] INFO: Adjusting an ODBComponent, U42
+DBSynch - [16:53:55] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:55] INFO: Part 'TM4C129XNCZAD-212-BGA_6' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C85
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C85
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C69
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C69
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C70
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C70
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R177
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R177
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C82
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C82
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C83
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C83
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, U45
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'ACS770LCB' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R178
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R178
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C53
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C53
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R99
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R99
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R100
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R100
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R101
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R101
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R102
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R102
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R103
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R103
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R104
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R104
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R105
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R105
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R106
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R106
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R107
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R107
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R113
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R113
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R114
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R114
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R2
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R2
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R3
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R3
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R4
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R4
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R5
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R5
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R6
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R6
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R7
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R7
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R8
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R8
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R9
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R9
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R10
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R10
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R11
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R11
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R12
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R12
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R13
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R13
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R14
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R14
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R15
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R15
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R16
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R16
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R17
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R17
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R18
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R18
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R19
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R19
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R20
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R20
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R21
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R21
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R22
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R22
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R23
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R23
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R24
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R24
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R25
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R25
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R26
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R26
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R27
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R27
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R28
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R28
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R29
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R29
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R30
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R30
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R31
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R31
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R32
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R32
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R33
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R33
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R34
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R34
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R35
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R35
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R36
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R36
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R115
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R115
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R116
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R116
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R117
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R117
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R118
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R118
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R119
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R119
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R120
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R120
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R121
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R121
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R122
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R122
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R123
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R123
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R124
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R124
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R125
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R125
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, Y1
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'NX3225GA-25MHZ' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C48
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0805' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C49
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0805' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C52
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0805' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C58
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0805' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C59
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0805' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R209
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R209
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C63
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'DIGIKEY_490_3373_1_ND' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C64
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'DIGIKEY_490_3373_1_ND' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C65
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'DIGIKEY_490_3373_1_ND' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, U3
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, U4
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, U5
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, U6
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, U7
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, U8
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, U9
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, U10
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, U11
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, U12
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, U13
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, U14
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C1
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C1
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C2
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C2
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C3
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C3
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C4
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C4
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C5
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C5
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C6
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C6
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C7
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C7
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C8
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C8
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C9
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C9
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C10
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C10
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C11
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C11
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C12
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C12
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R126
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R126
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R127
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R127
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R128
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R128
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R129
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R129
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R130
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R130
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R131
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R131
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R132
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R132
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R179
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, R179
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, J3
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part '5MM_MOUNT_PAD' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, U49
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part '150MIL_NP_HOLE' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C54
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C54
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C55
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, C55
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:56] INFO: Adjusting an ODBComponent, U46
+DBSynch - [16:53:56] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:56] INFO: Part 'DIGIKEY_LM3480IM3_3_3_NOPBCT_ND' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R135
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R135
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R136
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R136
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R137
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R137
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R138
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R138
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R139
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R139
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R140
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R140
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R141
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R141
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R142
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R142
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R143
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R143
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R144
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R144
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R145
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R145
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R146
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R146
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R147
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R147
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C35
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C35
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C36
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C36
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C37
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C37
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C38
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C38
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C39
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C39
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C40
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C40
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C41
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C41
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C66
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'DIGIKEY_490_3373_1_ND' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, L1
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'DIGIKEY_SRN1060_151MCT_ND' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C50
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C50
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'DIGIKEY_445_6840_6_ND' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U15
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'TPS7A4533' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R210
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R210
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, F4
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITTLEFUSE_SMD_1' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, J6
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part '5MM_MOUNT_PAD' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C56
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C56
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U39
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U39
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'CPC1510' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C67
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C67
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'DIGIKEY_445_6840_6_ND' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R197
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R197
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C68
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C68
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U2
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U2
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LTC6804-1' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R211
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R211
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R51
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R51
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R50
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R50
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R52
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R52
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R54
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R54
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C72
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C72
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C73
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C73
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R57
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R57
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C74
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C74
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C75
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C75
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R60
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R60
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C76
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C76
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R62
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R62
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R63
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R63
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R64
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R64
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R65
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R65
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R66
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R66
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R67
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R67
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R68
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R68
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R69
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R69
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R70
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R70
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R71
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R71
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R72
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R72
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R73
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R73
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R74
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R74
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R75
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R75
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R76
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R76
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R77
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R77
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R78
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R78
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R79
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R79
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R80
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R80
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R81
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R81
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R82
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R82
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R83
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R83
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R84
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R84
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R85
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R85
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R86
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R86
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R87
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R87
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R88
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R88
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R89
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R89
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R90
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R90
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R91
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R91
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R92
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R92
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R93
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R93
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R94
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R94
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R95
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R95
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R96
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R96
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R97
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R97
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R98
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R98
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C77
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C77
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C78
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C78
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'CAP_ARRAY_4X' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C71
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C71
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C79
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C79
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'CAP_ARRAY_4X' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R200
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R200
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R201
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R201
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R198
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R198
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R199
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R199
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U52
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U52
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NMOS_SOT_23_3' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U53
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U53
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NMOS_SOT_23_3' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C80
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C80
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'CAP_ARRAY_4X' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C81
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C81
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'CAP_ARRAY_4X' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D37
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'DIGIKEY_RS1B_FDICT_ND' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R212
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R212
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R203
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R203
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R204
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R204
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D34
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R205
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U18
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R168
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R168
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R55
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R55
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R56
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R56
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D5
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D4
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R58
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R58
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R59
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R59
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R61
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R61
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R108
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R108
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U19
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U20
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U21
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U22
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U23
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U24
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U25
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U26
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'DIGIKEY_SI2303CDS_T1_GE3CT_ND' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C17
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C17
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C18
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C18
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C19
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C19
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C20
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C20
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C21
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C21
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C22
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C22
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C23
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C23
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C24
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C24
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C25
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C25
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C26
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C26
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C27
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C27
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C28
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C28
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C29
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C29
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C30
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C30
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C31
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C31
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C32
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C32
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D26
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'DIGIKEY_BAT46W_7FDICT_ND' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D8
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D1
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U28
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'DIGIKEY_FZT653CT_ND' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U50
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part '150MIL_NP_HOLE' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U51
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part '150MIL_NP_HOLE' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R165
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R165
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R166
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R166
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R181
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R181
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R182
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R182
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R183
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R183
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R184
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R184
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R185
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R185
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R186
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R186
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R187
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R187
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C57
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C57
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D13
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U48
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U48
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'CPC1510' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U54
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part '150MIL_NP_HOLE' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D2
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D9
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D3
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D7
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D6
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D11
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D12
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D10
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D23
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D24
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D14
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D15
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D16
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D17
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D19
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D21
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D18
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D22
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D29
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D20
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R157
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R156
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R160
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R153
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R154
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R161
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R155
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R159
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R158
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R163
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R164
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R162
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R175
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R176
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D30
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D32
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D33
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R169
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R171
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R173
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R170
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R174
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R188
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R188
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R172
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NIC_NRC100J330TRF' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R189
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R189
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R190
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R190
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R191
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R191
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R194
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R194
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R195
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R195
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R202
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R202
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C86
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C86
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U17
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U17
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'HDC1010' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R213
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R213
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, J5
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'TFM-102-01-X-S-WT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R206
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R206
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R207
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, R207
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'R0603-100-5-025' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D35
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, D36
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'LITE-ON_LTST-C190KGKT' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C60
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C60
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C61
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, C61
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'C0603-105-16-10' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U31
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - height
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U31
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'NMOS_SOT_23_3' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U32
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'SN74LVC2G04DRLR_DUAL_INV' will be updated from library.
+DBSynch - [16:53:57] INFO: Adjusting an ODBComponent, U33
+DBSynch - [16:53:57] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:57] INFO: Part 'SN74LVC2G34DRLR_DUAL_BUFF' will be updated from library.
+DBSynch - [16:53:58] INFO: Adjusting an ODBComponent, U34
+DBSynch - [16:53:58] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:58] INFO: Part 'HFBR-1521Z' will be updated from library.
+DBSynch - [16:53:58] INFO: Adjusting an ODBComponent, U35
+DBSynch - [16:53:58] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:58] INFO: Part 'HFBR-2521Z' will be updated from library.
+DBSynch - [16:53:58] INFO: Adjusting an ODBComponent, R208
+DBSynch - [16:53:58] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:58] INFO: Part 'R-US_R0805' will be updated from library.
+DBSynch - [16:53:58] INFO: Adjusting an ODBComponent, U70
+DBSynch - [16:53:58] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:58] INFO: Part 'DIGIKEY_LM3480IM3_3_3_NOPBCT_ND' will be updated from library.
+DBSynch - [16:53:58] INFO: Adjusting an ODBComponent, U71
+DBSynch - [16:53:58] INFO: Criterion about to be adjusted - part name
+DBSynch - [16:53:58] INFO: Part 'DIGIKEY_296_9215_2_ND' will be updated from library.
+DBSynch - [16:53:58] INFO: No item has been added due to lack of unmatched objects.
+
+                                                                         Total: Informational notifications - 2440; Errors - 0
+
+_______________________________________________________________________________ Log session started at: Thursday, May 18, 2017 16:53:58
+                                                                                
+DBSynch - [16:53:58] INFO: Net synchronization has been started.
+DBSynch - [16:53:58] INFO:  Merge direction: PCB database shall be updated (iCDB snapshot shall stay untouched).
+DBSynch - [16:53:58] INFO: Initializing iCDB proxy wrappers.
+DBSynch - [16:53:58] WARNING: Net has been skipped. Identifier: S10_UPPER
+DBSynch - [16:53:58] WARNING: Net has been skipped. Identifier: S11_UPPER
+DBSynch - [16:53:58] WARNING: Net has been skipped. Identifier: S12_UPPER
+DBSynch - [16:53:58] WARNING: Net has been skipped. Identifier: IHP_UPPER
+DBSynch - [16:53:58] WARNING: Net has been skipped. Identifier: IHM_UPPER
+DBSynch - [16:53:58] WARNING: Net has been skipped. Identifier: $5N814
+DBSynch - [16:53:58] INFO: iCDB nets found: 276	Number of created wrappers: 270
+DBSynch - [16:53:58] INFO: Initializing PCB proxy wrappers.
+DBSynch - [16:53:58] INFO: PCB nets found: 270	Number of created wrappers: 270
+DBSynch - [16:53:58] INFO: Matching nets.
+DBSynch - [16:53:58] INFO: Performing non-LDD operations on nets.
+DBSynch - [16:53:58] INFO: Adjusting an ODBSignal, GND. Criterion about to be adjusted - pins
+DBSynch - [16:53:58] INFO: Performing LDD operations on nets.
+DBSynch - [16:53:58] INFO: No removal has been performed due to lack of unmatched objects.
+DBSynch - [16:53:58] INFO: Net, GND, will get these pins removed: U42.U6.
+DBSynch - [16:53:58] INFO: No item has been added due to lack of unmatched objects.
+
+                                                                         Total: Informational notifications - 13; Warnings - 6; Errors - 0

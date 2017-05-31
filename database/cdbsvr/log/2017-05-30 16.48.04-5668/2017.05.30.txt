@@ -1,0 +1,109 @@
+[2017.05.30 16:48:05] [0000m.01s.877ms] [0] WELCOME
+[2017.05.30 16:48:05] [0000m.01s.892ms] [1] iCDB Server ver.2.200, jmoSXI5tfcQi0m1NxN3JKg, build:5060442 created 2016-08-17 14:30:09, sources stamp:jmoSXI5tfcQi0m1NxN3JKg
+[2017.05.30 16:48:05] [0000m.01s.892ms] [1] Copyright 2016 Mentor Graphics Corporation.  All Rights Reserved.
+[2017.05.30 16:48:05] [0000m.01s.892ms] [1] Base flow version [VX.2]
+[2017.05.30 16:48:05] [0000m.01s.892ms] [1] Install Id [1409977], Flow Id [PADS VX.2], Full Flow Name [PADS VX.2], Exact Access Date [2016/05/01]
+[2017.05.30 16:48:05] [0000m.01s.892ms] [1] Machine [LAPTOP-48928JDC]  User [Chris]  PID [5668]
+[2017.05.30 16:48:05] [0000m.01s.892ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2017.05.30 16:48:05] [0000m.01s.892ms] [1] Current working dir [C:\PADS Projects\DxProjects\BMS_v2_4]
+[2017.05.30 16:48:05] [0000m.01s.892ms] [1] PATH [C:\MentorGraphics\PADSVX.2\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2\MGC_HOME.ixn\lib;C:\MentorGraphics\PADSVX.2\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2\SDD_HOME\common\win32\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin;C:\MentorGraphics\PADSVX.2\SDD_HOME\CAMCAD;C:\Users\Chris\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\PADSVX.2\SDD_HOME\layout3d\win32\lib]
+[2017.05.30 16:48:05] [0000m.01s.892ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2\SDD_HOME] on file system [NTFS]
+[2017.05.30 16:48:05] [0000m.01s.892ms] [1] SDD_PLATFORM [win32]
+[2017.05.30 16:48:05] [0000m.01s.892ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2\SDD_HOME\standard;]
+[2017.05.30 16:48:05] [0000m.01s.892ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2017.05.30 16:48:05] [0000m.01s.908ms] [2] S: Loading config files
+[2017.05.30 16:48:06] [0000m.02s.743ms] [1] Config file [C:\PADS Projects\DxProjects\BMS_v2_4\database\cdbsvr\Server.cfg] not found
+[2017.05.30 16:48:06] [0000m.02s.743ms] [3] S: Config loaded
+[2017.05.30 16:48:09] [0000m.05s.640ms] [0] S: Project path [C:\PADS Projects\DxProjects\BMS_v2_4\database] on file system [NTFS]
+[2017.05.30 16:48:09] [0000m.05s.640ms] [1] S: WARNING: No project file (.prj) path specified
+[2017.05.30 16:48:09] [0000m.05s.640ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2017.05.30 16:48:09] [0000m.05s.640ms] [0] S: Single-user mode (auto)
+[2017.05.30 16:48:09] [0000m.05s.640ms] [0] S: Event polling mode autodetection
+[2017.05.30 16:48:09] [0000m.05s.734ms] [0] S: Started up automatically by iCDB Client: LAPTOP-48928JDC:Chris:13292
+[2017.05.30 16:48:09] [0000m.05s.734ms] [0] S: Auto close mode
+[2017.05.30 16:48:09] [0000m.05s.734ms] [0] S: Database ID [a010-be3d-03ff-e1c6-ff89-b194-099b-1950-0082-d1e1-435f-ecb9]
+[2017.05.30 16:48:09] [0000m.05s.734ms] [0] PathTranslator: BEGIN dumping
+[2017.05.30 16:48:09] [0000m.05s.734ms] [0] PathTranslator: Local -> global path prefix list
+[2017.05.30 16:48:09] [0000m.05s.734ms] [0] PathTranslator: Global -> local path prefix list
+[2017.05.30 16:48:09] [0000m.05s.734ms] [0] PathTranslator: END dumping
+[2017.05.30 16:48:09] [0000m.05s.734ms] [0] S: START
+[2017.05.30 16:48:09] [0000m.05s.734ms] [0] S: Server startup lock file created
+[2017.05.30 16:48:09] [0000m.05s.749ms] [0] S: Listening for client connections on port [10001]
+[2017.05.30 16:48:09] [0000m.05s.765ms] [0] S: Server network ID [LAPTOP-48928JDC:172.22.91.158,LAPTOP-48928JDC:10001]
+[2017.05.30 16:48:09] [0000m.05s.765ms] [0] S: Server GUID [6c55-2a6c-c209-0e3b-9b40-e29e-b40e-2950-4cb3-d1e1-435f-ecb9]
+[2017.05.30 16:48:09] [0000m.05s.765ms] [0] S: Project GUID [a010-be3d-03ff-e1c6-ff89-b194-099b-1950-0082-d1e1-435f-ecb9]
+[2017.05.30 16:48:09] [0000m.05s.781ms] [0] S: Wrote data to server address file
+[2017.05.30 16:48:09] [0000m.05s.781ms] [0] S: Server startup lock file removed
+[2017.05.30 16:48:09] [0000m.05s.796ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2017.05.30 16:48:10] [0000m.07s.318ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2017.05.30 16:48:10] [0000m.07s.318ms] [0] S: Local disc access time: 54 us
+[2017.05.30 16:48:10] [0000m.07s.318ms] [0] S: File server access time: 55 us
+[2017.05.30 16:48:10] [0000m.07s.443ms] [0] Single file [C:\PADS Projects\DxProjects\BMS_v2_4\database\icdb.dat] size [414920 (405.2 kB)]
+[2017.05.30 16:48:10] [0000m.07s.443ms] [1] Single file [C:\PADS Projects\DxProjects\BMS_v2_4\database\icdb.dat] opened in read-write mode
+[2017.05.30 16:48:10] [0000m.07s.443ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.05.30 16:48:10] [0000m.07s.443ms] [0] Database GUARD OK: [414920]
+[2017.05.30 16:48:10] [0000m.07s.474ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.05.30 16:48:10] [0000m.07s.474ms] [0] Database GUARD OK: [414920]
+[2017.05.30 16:48:10] [0000m.07s.474ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.05.30 16:48:10] [0000m.07s.474ms] [0] Database GUARD OK: [414920]
+[2017.05.30 16:48:10] [0000m.07s.474ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.05.30 16:48:10] [0000m.07s.474ms] [0] Database GUARD OK: [414920]
+[2017.05.30 16:48:10] [0000m.07s.489ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.05.30 16:48:10] [0000m.07s.489ms] [0] Database GUARD OK: [414920]
+[2017.05.30 16:48:10] [0000m.07s.489ms] [0] SingleFile: [902c-32b3-5fda-f7d0] SFI version check [1009] [1009]
+[2017.05.30 16:48:10] [0000m.07s.521ms] [0] SingleFile: [902c-32b3-5fda-f7d0] Database SFI header has been read in [29ms 21us]
+[2017.05.30 16:48:11] [0000m.07s.536ms] [0] iCDB Server PI: Server & plugin session [1959]
+[2017.05.30 16:48:11] [0000m.07s.536ms] [0] iCDB Server PI: Opening database [C:\PADS Projects\DxProjects\BMS_v2_4\database]
+[2017.05.30 16:48:11] [0000m.07s.536ms] [0] iCDB Server PI: Database [C:\PADS Projects\DxProjects\BMS_v2_4\database] opened
+[2017.05.30 16:48:11] [0000m.07s.614ms] [0] iCDB Database: Checking existence of constraint definitions
+[2017.05.30 16:48:11] [0000m.07s.614ms] [0] iCDB Database: Checking constraint definitions version
+[2017.05.30 16:48:11] [0000m.07s.755ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.56] up to date
+[2017.05.30 16:48:11] [0000m.07s.786ms] [0] iCDB Server PI: Initializing plugins
+[2017.05.30 16:48:11] [0000m.07s.802ms] [0] iCDB Server PI: Plugins initialized
+[2017.05.30 16:48:11] [0000m.07s.802ms] [0] S: iCDB database loaded
+[2017.05.30 16:48:11] [0000m.07s.818ms] [0] S: Starting threads
+[2017.05.30 16:48:11] [0000m.07s.818ms] [0] BT: Listening for broadcast messages on port [10000]
+[2017.05.30 16:48:11] [0000m.07s.818ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2017.05.30 16:48:11] [0000m.07s.818ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2017.05.30 16:48:11] [0000m.07s.833ms] [0] MWT: WindowProc: WM_NCCREATE
+[2017.05.30 16:48:11] [0000m.07s.927ms] [0] IT: Session [1960] for host [LAPTOP-48928JDC] user [Chris] with process ID [13292] created
+[2017.05.30 16:48:11] [0000m.07s.943ms] [1] CMT: There are [1] clients now: 1960
+[2017.05.30 16:48:11] [0000m.07s.943ms] [1] SC[1960]: Registered sub-client [iCDBConnector] with ID [1] for session ID [1960] host [LAPTOP-48928JDC] user [Chris] process ID [13292]
+[2017.05.30 16:48:11] [0000m.08s.115ms] [0] IT: iCDB Server Monitor session [1] for host [LAPTOP-48928JDC] user [Chris] with process ID [6020] created
+[2017.05.30 16:48:11] [0000m.08s.146ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2017.05.30 16:48:11] [0000m.08s.427ms] [1] SC[1960]: UnRegistered sub-client [iCDBConnector] with ID [1] for session ID [1960] host [LAPTOP-48928JDC] user [Chris] process ID [13292]
+[2017.05.30 16:48:11] [0000m.08s.489ms] [1] CMT: Removed client [1960]
+[2017.05.30 16:48:11] [0000m.08s.489ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.05.30 16:48:12] [0000m.09s.099ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2017.05.30 16:48:12] [0000m.09s.203ms] [0] IT: Session [1961] for host [LAPTOP-48928JDC] user [Chris] with process ID [13292] created
+[2017.05.30 16:48:12] [0000m.09s.203ms] [1] SC[1961]: Registered sub-client [PADSLayout] with ID [1] for session ID [1961] host [LAPTOP-48928JDC] user [Chris] process ID [13292]
+[2017.05.30 16:48:12] [0000m.09s.407ms] [1] SC[1961]: Registered sub-client [iCESPI.PADSLayout] with ID [2] for session ID [1961] host [LAPTOP-48928JDC] user [Chris] process ID [13292]
+[2017.05.30 16:48:58] [0000m.54s.733ms] [0] DFAMT: File server access time: 70 us
+[2017.05.30 16:49:03] [0000m.59s.562ms] [1] SC[1961]: UnRegistered sub-client [iCESPI.PADSLayout] with ID [2] for session ID [1961] host [LAPTOP-48928JDC] user [Chris] process ID [13292]
+[2017.05.30 16:49:03] [0000m.59s.593ms] [1] SC[1961]: UnRegistered sub-client [PADSLayout] with ID [1] for session ID [1961] host [LAPTOP-48928JDC] user [Chris] process ID [13292]
+[2017.05.30 16:49:03] [0000m.59s.687ms] [1] CMT: Removed client [1961]
+[2017.05.30 16:49:03] [0000m.59s.687ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.05.30 16:49:03] [0000m.59s.796ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2017.05.30 16:49:05] [0001m.01s.533ms] [0] CMT: Starting server auto-close
+[2017.05.30 16:49:05] [0001m.01s.611ms] [0] S: Closing server
+[2017.05.30 16:49:05] [0001m.01s.627ms] [0] ProjectBackupManager: WARNING: Could not shutdown Project Backup engine - not started yet
+[2017.05.30 16:49:05] [0001m.01s.705ms] [0] iCDB Server PI: Closing plugins
+[2017.05.30 16:49:05] [0001m.01s.705ms] [0] iCDB Server PI: Plugins closed
+[2017.05.30 16:49:05] [0001m.01s.736ms] [0] iCDB Server PI: Unloading database
+[2017.05.30 16:49:05] [0001m.01s.736ms] [0] iCDB Server PI: Saving storage
+[2017.05.30 16:49:05] [0001m.01s.736ms] [0] iCDB Server PI: Closing database
+[2017.05.30 16:49:05] [0001m.01s.736ms] [1] Hole: zero line at 414892 of size 8 bytes.
+[2017.05.30 16:49:05] [0001m.01s.845ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[0%] data[99%]
+[2017.05.30 16:49:05] [0001m.01s.845ms] [1] iCDB Server PI: Stats: Database file size [414920 (405.2 kB)]
+[2017.05.30 16:49:05] [0001m.01s.845ms] [1] Hole: zero line at 414892 of size 8 bytes.
+[2017.05.30 16:49:05] [0001m.01s.939ms] [0] iCDB Server PI: Database closed
+[2017.05.30 16:49:05] [0001m.01s.939ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [27] ticks
+[2017.05.30 16:49:05] [0001m.01s.939ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [12] microseconds
+[2017.05.30 16:49:05] [0001m.01s.939ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [2]
+[2017.05.30 16:49:05] [0001m.01s.939ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [158776] commands per second
+[2017.05.30 16:49:05] [0001m.01s.939ms] [0] Single file [C:\PADS Projects\DxProjects\BMS_v2_4\database\icdb.dat] closed with size [414920 (405.2 kB)]
+[2017.05.30 16:49:05] [0001m.02s.017ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2017.05.30 16:49:05] [0001m.02s.236ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2017.05.30 16:49:05] [0001m.02s.517ms] [0] MWT: Destroy the shutdown block reason.
+[2017.05.30 16:49:05] [0001m.02s.517ms] [0] MWT: STOP
+[2017.05.30 16:49:05] [0001m.02s.517ms] [0] S: STOP

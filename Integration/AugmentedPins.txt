@@ -1,0 +1,17 @@
+
+------------------------------------------------------------------------
+            Part/Reference             | Pin | Augmented Net Name
+------------------------------------------------------------------------
+ Part TFM-110-01-XXX-D-REX-WT          |
+       J11                             |   21| <unconnected pin>
+       J11                             |   22| <unconnected pin>
+       J11                             |   23| <unconnected pin>
+       J11                             |   24| <unconnected pin>
+ Part TFM-105-01-XXX-D-REX-WT          |
+       J2                              |   21| <unconnected pin>
+       J2                              |   22| <unconnected pin>
+       J2                              |   23| <unconnected pin>
+       J2                              |   24| <unconnected pin>
+ Part BM06B-GHS-TBT(LF)(SN)(N)         |
+       U16                             |    7| <unconnected pin>
+       U16                             |    8| <unconnected pin>

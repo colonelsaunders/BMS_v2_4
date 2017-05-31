@@ -1,0 +1,12 @@
+Sheet_ID	Sheet_Name
+1	Schematic1(Lower BMS chip)
+2	Schematic1(Upper BMS chip)
+3	Schematic1(Inter IC Comms)
+4	Schematic1(Current Sense and Thermistors)
+5	Schematic1(Power Regulation)
+6	Schematic1(SPI Comms)
+7	Schematic1(Microcontroller)
+8	Schematic1(Microcontroller Supplementals)
+9	Schematic1(Kitty Carrier and ESC Enable)
+10	Schematic1(Fiber UART Transceiver)
+11	Schematic1(Cell Connectors)

@@ -1,0 +1,1030 @@
+--------------------------------------------------------------------------------
+ Project integration - START (2017-03-09 09:37:42) 
+--------------------------------------------------------------------------------
+FE snapshot name: DxD
+BE snapshot name: Board1_layout_temp
+Top level block: (2-1-5)
+Parameters: BAConnectivity,BAConstraints,FEWin,
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Connection synchronization - START (2017-03-09 09:37:42) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(15-1-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(15-1-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-1-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-1-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-1-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-1-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(71-1-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(71-1-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(516-1-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(516-1-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_LM3480IM3_3_3_NOPBCT_ND.1,(614-1-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(645-1-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(645-1-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(840-1-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(840-1-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(865-1-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(1079-1-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(1079-1-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,LTC6804-1.1,(2-2-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(15-2-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-2-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-2-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-2-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(71-2-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(71-2-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(588-2-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(614-2-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(645-2-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(840-2-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(840-2-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(865-2-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(1112-2-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-3-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-3-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(71-3-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(71-3-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(614-3-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(840-3-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(840-3-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(865-3-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(1079-3-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(1079-3-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(1112-3-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(1112-3-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(15-4-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(15-4-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-4-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-4-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-4-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-4-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(71-4-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(71-4-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(645-4-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(645-4-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(840-4-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(840-4-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(865-4-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(1079-4-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-5-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-5-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-5-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_RS1B_FDICT_ND.1,(71-5-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(588-5-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(588-5-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(645-5-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(645-5-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(1079-5-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-6-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-6-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(51-6-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-6-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-6-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(71-6-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(71-6-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(588-6-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(645-6-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-7-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-7-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-7-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-7-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_RS1B_FDICT_ND.1,(1079-7-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-8-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-8-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(51-8-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(51-8-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-8-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-8-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,LED_2.1,(1079-8-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(2-9-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(51-9-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(51-9-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(588-9-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(588-9-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(1079-9-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(1079-9-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-10-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-10-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(51-10-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(1079-10-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(1079-10-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(2-11-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-11-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-11-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-11-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-11-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(645-11-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(645-11-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-12-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-12-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-12-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-12-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-12-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-12-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(645-12-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(645-12-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-13-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-13-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-13-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-13-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(51-13-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-13-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-13-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(645-13-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(645-13-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_445_6840_6_ND.1,(1079-13-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(2-14-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(51-14-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(51-14-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-14-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-14-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(645-14-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(645-14-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(51-15-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(51-15-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-15-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-15-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(645-15-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(645-15-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_445_6840_6_ND.1,(1079-15-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-16-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-16-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-16-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-16-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(51-17-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-17-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-17-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_445_6840_6_ND.1,(1079-17-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-18-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-18-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-19-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-19-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-20-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-20-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-20-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-21-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-21-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-22-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-22-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-22-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-22-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-23-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-23-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-24-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-24-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-24-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-24-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-25-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-25-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-26-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-26-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-26-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-27-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-27-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-28-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-28-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-28-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-29-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-29-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-30-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-30-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-33-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-33-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(58-34-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-36-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-36-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-36-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-36-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(27-37-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(58-37-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-38-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-38-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(27-39-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-39-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-39-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-40-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-40-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-41-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-42-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-42-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(27-43-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-44-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-44-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(27-45-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(27-46-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-47-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-48-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-48-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-49-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-49-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-49-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-49-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-50-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-50-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-50-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-50-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-51-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-51-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-52-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-52-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-52-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(27-53-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-53-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-53-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-54-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-54-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(58-55-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-56-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-56-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-57-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-57-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-58-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-58-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-59-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-59-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-59-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-60-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-60-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-60-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-60-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-61-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-61-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(58-62-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-63-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-63-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-64-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-64-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(58-65-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-66-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-66-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(58-66-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-68-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-68-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-69-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-69-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-70-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-70-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-71-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-71-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-71-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-72-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-72-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-73-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-73-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(58-75-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-77-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_RS1B_FDICT_ND.1,(58-77-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SRN1060_151MCT_ND.1,(58-78-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-79-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490_3373_1_ND.1,(58-79-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(27-80-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490_3373_1_ND.1,(58-80-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(27-81-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490_3373_1_ND.1,(58-81-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-82-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-82-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490_3373_1_ND.1,(58-82-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(27-83-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_490_3373_1_ND.1,(58-83-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-84-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-85-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-85-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(58-85-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(27-86-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-87-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-87-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(58-87-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(27-88-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-89-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-89-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-89-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-89-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-90-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-90-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-91-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-91-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-91-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(58-91-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-92-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-93-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-93-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-99-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-99-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-99-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-99-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(2-100-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-100-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-100-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(2-101-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-101-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-103-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-103-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-104-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-104-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(2-105-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(2-106-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-107-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-107-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(2-108-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-109-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-109-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(2-110-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-110-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-110-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(2-111-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(2-112-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-114-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-114-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-114-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(2-116-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-116-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(2-117-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(2-118-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,LTC6804-1.1,(27-118-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-119-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-119-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-119-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-119-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-120-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-120-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-120-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-120-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-121-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-121-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-121-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-121-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-122-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-122-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(27-122-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-123-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-123-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-123-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-123-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(27-124-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(2-125-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(27-125-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-126-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-126-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-126-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-126-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(2-127-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(27-127-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-128-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-128-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-128-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(2-129-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-129-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-129-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-130-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-130-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-130-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-131-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-131-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-131-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-132-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-132-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-132-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-132-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-133-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-133-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(27-133-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(2-134-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-134-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-134-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(2-135-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(27-135-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-136-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-136-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-136-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-136-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(2-137-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-137-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(2-138-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-138-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-138-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-139-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-139-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-140-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-140-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(27-140-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(2-141-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(27-141-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(2-142-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-142-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-142-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(2-143-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(27-143-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-144-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-144-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-144-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-144-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(27-145-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-146-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-146-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(27-146-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-147-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-147-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-147-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(2-148-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-148-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-148-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-149-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-149-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-149-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-149-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-150-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-150-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(27-150-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-151-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-151-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(2-152-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(27-152-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(2-153-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-153-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-153-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-154-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-154-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-154-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-154-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(2-155-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(27-155-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(2-156-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-156-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(27-156-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-157-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-157-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(2-158-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(2-160-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(2-161-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(2-162-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-164-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-164-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-165-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-165-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-167-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-167-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,AAC-0603.1,(2-168-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,DIGIKEY_SI2303CDS_T1_GE3CT_ND.1,(2-169-8)]
+	Property: Description, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-170-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-170-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-171-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-171-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-172-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-172-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Capacitor.1,(2-173-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-174-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-174-8)]
+	Property: CLASS, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-175-8)]
+	Property: Value, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,Resistor.1,(2-175-8)]
+	Property: CLASS, Operation: Change
+--------------------------------------------------------------------------------
+ Connection synchronization - END (2017-03-09 09:37:42) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ CES synchronization - START (2017-03-09 09:37:42) 
+--------------------------------------------------------------------------------
+[Ok][Addition] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesVia,TESTPOINTVIA,(1234-1-62)]
+[Ok][Modification] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesViaSpan,Through,(4-1-27)]
+[Ok][Modification] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesLayer,DIELECTRIC_3,(830-1-23)]
+[Ok][Modification] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesLayer,DIELECTRIC_5,(830-2-23)]
+[Ok][Modification] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesLayer,DIELECTRIC_7,(830-3-23)]
+[Ok][Modification] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesLayer,DIELECTRIC_9,(830-4-23)]
+[Ok][Modification] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesLayer,DIELECTRIC_1,(830-5-23)]
+[Ok][Modification] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesLayer,SIGNAL_1,(4-2-23)]
+[Ok][Modification] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesLayer,SIGNAL_4,(4-4-23)]
+[Ok][Modification] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesLayer,PLANE_2,(279-4-23)]
+[Ok][Modification] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesLayer,PLANE_3,(279-10-23)]
+
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - START (2017-03-09 09:37:42) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - END (2017-03-09 09:37:42) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,LAYER_DESC,(4-42-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,HEIGHT,(4-43-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,LAYER_USAGE,(4-44-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,DIELCONST,(4-45-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,LAYER_ENABLED,(4-46-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_1,(4-2-23)] [O: CesConstraint,DIRECTIONAL_BIAS,(4-47-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_4,(4-4-23)] [O: CesConstraint,LAYER_DESC,(4-119-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_4,(4-4-23)] [O: CesConstraint,HEIGHT,(4-120-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_4,(4-4-23)] [O: CesConstraint,LAYER_USAGE,(4-121-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_4,(4-4-23)] [O: CesConstraint,DIELCONST,(4-122-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_4,(4-4-23)] [O: CesConstraint,LAYER_ENABLED,(4-123-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SIGNAL_4,(4-4-23)] [O: CesConstraint,DIRECTIONAL_BIAS,(4-124-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_2,(279-4-23)] [O: CesConstraint,LAYER_DESC,(279-48-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_2,(279-4-23)] [O: CesConstraint,HEIGHT,(279-49-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_2,(279-4-23)] [O: CesConstraint,LAYER_USAGE,(279-50-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_2,(279-4-23)] [O: CesConstraint,DIELCONST,(279-51-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_2,(279-4-23)] [O: CesConstraint,LAYER_ENABLED,(279-52-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_2,(279-4-23)] [O: CesConstraint,DIRECTIONAL_BIAS,(279-53-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_3,(279-10-23)] [O: CesConstraint,LAYER_DESC,(279-279-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_3,(279-10-23)] [O: CesConstraint,HEIGHT,(279-280-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_3,(279-10-23)] [O: CesConstraint,LAYER_USAGE,(279-281-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_3,(279-10-23)] [O: CesConstraint,DIELCONST,(279-282-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_3,(279-10-23)] [O: CesConstraint,LAYER_ENABLED,(279-283-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_3,(279-10-23)] [O: CesConstraint,DIRECTIONAL_BIAS,(279-284-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_2,(279-4-23)] [O: CesConstraint,PLANE_NETS,(279-321-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_2,(279-4-23)] [O: CesConstraint,PLANE_TYPE,(279-322-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_2,(279-4-23)] [O: CesConstraint,PNET_CLEARANCES,(279-323-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_2,(279-4-23)] [O: CesConstraint,PNET_UBORDERS,(279-324-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_3,(279-10-23)] [O: CesConstraint,PLANE_NETS,(279-334-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_3,(279-10-23)] [O: CesConstraint,PLANE_TYPE,(279-335-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_3,(279-10-23)] [O: CesConstraint,PNET_CLEARANCES,(279-336-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,PLANE_3,(279-10-23)] [O: CesConstraint,PNET_UBORDERS,(279-337-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_3,(830-1-23)] [O: CesConstraint,HEIGHT,(830-1-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_3,(830-1-23)] [O: CesConstraint,LAYER_USAGE,(830-2-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_3,(830-1-23)] [O: CesConstraint,DIELCONST,(830-3-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_5,(830-2-23)] [O: CesConstraint,HEIGHT,(830-4-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_5,(830-2-23)] [O: CesConstraint,LAYER_USAGE,(830-5-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_5,(830-2-23)] [O: CesConstraint,DIELCONST,(830-6-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_7,(830-3-23)] [O: CesConstraint,HEIGHT,(830-7-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_7,(830-3-23)] [O: CesConstraint,LAYER_USAGE,(830-8-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_7,(830-3-23)] [O: CesConstraint,DIELCONST,(830-9-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_9,(830-4-23)] [O: CesConstraint,HEIGHT,(830-10-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_9,(830-4-23)] [O: CesConstraint,LAYER_USAGE,(830-11-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_9,(830-4-23)] [O: CesConstraint,DIELCONST,(830-12-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_1,(830-5-23)] [O: CesConstraint,HEIGHT,(830-13-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_1,(830-5-23)] [O: CesConstraint,LAYER_USAGE,(830-14-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,DIELECTRIC_1,(830-5-23)] [O: CesConstraint,DIELCONST,(830-15-22)]
+--------------------------------------------------------------------------------
+ CES synchronization - END (2017-03-09 09:37:42) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - START (2017-03-09 09:37:42) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - END (2017-03-09 09:37:42) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Project integration - END (2017-03-09 09:37:42) 
+--------------------------------------------------------------------------------

@@ -1,0 +1,153 @@
+[2017.05.12 14:28:26] [0000m.00s.034ms] [0] WELCOME
+[2017.05.12 14:28:26] [0000m.00s.035ms] [1] iCDB Server ver.2.200, jmoSXI5tfcQi0m1NxN3JKg, build:5060442 created 2016-08-17 14:30:09, sources stamp:jmoSXI5tfcQi0m1NxN3JKg
+[2017.05.12 14:28:26] [0000m.00s.035ms] [1] Copyright 2016 Mentor Graphics Corporation.  All Rights Reserved.
+[2017.05.12 14:28:26] [0000m.00s.035ms] [1] Base flow version [VX.2]
+[2017.05.12 14:28:26] [0000m.00s.035ms] [1] Install Id [1409977], Flow Id [PADS VX.2], Full Flow Name [PADS VX.2], Exact Access Date [2016/05/01]
+[2017.05.12 14:28:26] [0000m.00s.035ms] [1] Machine [LAPTOP-48928JDC]  User [Chris]  PID [15924]
+[2017.05.12 14:28:26] [0000m.00s.036ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2017.05.12 14:28:26] [0000m.00s.036ms] [1] Current working dir [C:\PADS Projects\DxProjects\BMS_v2_3]
+[2017.05.12 14:28:26] [0000m.00s.036ms] [1] PATH [C:\MentorGraphics\PADSVX.2\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2\MGC_HOME.ixn\lib;C:\MentorGraphics\PADSVX.2\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2\MGC_HOME.ixn\lib;C:\MentorGraphics\PADSVX.2\SDD_HOME\wv\win32\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin;C:\MentorGraphics\PADSVX.2\SDD_HOME\CAMCAD;C:\Users\Chris\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\PADSVX.2\SDD_HOME\layout3d\win32\lib]
+[2017.05.12 14:28:26] [0000m.00s.037ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2\SDD_HOME] on file system [NTFS]
+[2017.05.12 14:28:26] [0000m.00s.037ms] [1] SDD_PLATFORM [win32]
+[2017.05.12 14:28:26] [0000m.00s.037ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2\SDD_HOME\standard;]
+[2017.05.12 14:28:26] [0000m.00s.037ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2017.05.12 14:28:26] [0000m.00s.037ms] [2] S: Loading config files
+[2017.05.12 14:28:26] [0000m.00s.047ms] [1] Config file [C:\PADS Projects\DxProjects\BMS_v2_3\database\cdbsvr\Server.cfg] not found
+[2017.05.12 14:28:26] [0000m.00s.050ms] [3] S: Config loaded
+[2017.05.12 14:28:26] [0000m.00s.055ms] [0] S: Project path [C:\PADS Projects\DxProjects\BMS_v2_3\database] on file system [NTFS]
+[2017.05.12 14:28:26] [0000m.00s.055ms] [1] S: WARNING: No project file (.prj) path specified
+[2017.05.12 14:28:26] [0000m.00s.055ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2017.05.12 14:28:26] [0000m.00s.055ms] [0] S: Single-user mode (auto)
+[2017.05.12 14:28:26] [0000m.00s.055ms] [0] S: Event polling mode autodetection
+[2017.05.12 14:28:26] [0000m.00s.064ms] [0] S: Started up automatically by iCDB Client: LAPTOP-48928JDC:Chris:14300
+[2017.05.12 14:28:26] [0000m.00s.064ms] [0] S: Auto close mode
+[2017.05.12 14:28:26] [0000m.00s.064ms] [0] S: Database ID [1d42-8a53-e021-25a0-18f2-ef86-8f2e-f850-8c24-d1e1-435f-ecb9]
+[2017.05.12 14:28:26] [0000m.00s.065ms] [0] PathTranslator: BEGIN dumping
+[2017.05.12 14:28:26] [0000m.00s.065ms] [0] PathTranslator: Local -> global path prefix list
+[2017.05.12 14:28:26] [0000m.00s.065ms] [0] PathTranslator: Global -> local path prefix list
+[2017.05.12 14:28:26] [0000m.00s.065ms] [0] PathTranslator: END dumping
+[2017.05.12 14:28:26] [0000m.00s.065ms] [0] S: START
+[2017.05.12 14:28:26] [0000m.00s.065ms] [0] S: Server startup lock file created
+[2017.05.12 14:28:26] [0000m.00s.066ms] [0] S: Listening for client connections on port [10001]
+[2017.05.12 14:28:26] [0000m.00s.067ms] [0] S: Server network ID [LAPTOP-48928JDC:172.22.91.158,LAPTOP-48928JDC:10001]
+[2017.05.12 14:28:26] [0000m.00s.068ms] [0] S: Server GUID [4c7e-e93a-8825-5f63-af82-619f-f826-1950-4d55-d1e1-435f-ecb9]
+[2017.05.12 14:28:26] [0000m.00s.068ms] [0] S: Project GUID [1d42-8a53-e021-25a0-18f2-ef86-8f2e-f850-8c24-d1e1-435f-ecb9]
+[2017.05.12 14:28:26] [0000m.00s.100ms] [0] S: Wrote data to server address file
+[2017.05.12 14:28:26] [0000m.00s.101ms] [0] S: Server startup lock file removed
+[2017.05.12 14:28:26] [0000m.00s.101ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2017.05.12 14:28:26] [0000m.00s.136ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2017.05.12 14:28:26] [0000m.00s.136ms] [0] S: Local disc access time: 71 us
+[2017.05.12 14:28:26] [0000m.00s.136ms] [0] S: File server access time: 76 us
+[2017.05.12 14:28:26] [0000m.00s.138ms] [0] Single file [C:\PADS Projects\DxProjects\BMS_v2_3\database\icdb.dat] size [435792 (425.6 kB)]
+[2017.05.12 14:28:26] [0000m.00s.138ms] [1] Single file [C:\PADS Projects\DxProjects\BMS_v2_3\database\icdb.dat] opened in read-write mode
+[2017.05.12 14:28:26] [0000m.00s.139ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.05.12 14:28:26] [0000m.00s.139ms] [0] Database GUARD OK: [435792]
+[2017.05.12 14:28:26] [0000m.00s.140ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.05.12 14:28:26] [0000m.00s.140ms] [0] Database GUARD OK: [435792]
+[2017.05.12 14:28:26] [0000m.00s.141ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.05.12 14:28:26] [0000m.00s.141ms] [0] Database GUARD OK: [435792]
+[2017.05.12 14:28:26] [0000m.00s.141ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.05.12 14:28:26] [0000m.00s.141ms] [0] Database GUARD OK: [435792]
+[2017.05.12 14:28:26] [0000m.00s.142ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.05.12 14:28:26] [0000m.00s.142ms] [0] Database GUARD OK: [435792]
+[2017.05.12 14:28:26] [0000m.00s.142ms] [0] SingleFile: [a179-3ccb-a3ae-0bba] SFI version check [1009] [1009]
+[2017.05.12 14:28:26] [0000m.00s.153ms] [0] SingleFile: [a179-3ccb-a3ae-0bba] Database SFI header has been read in [11ms 386us]
+[2017.05.12 14:28:26] [0000m.00s.161ms] [0] iCDB Server PI: Server & plugin session [1885]
+[2017.05.12 14:28:26] [0000m.00s.161ms] [0] iCDB Server PI: Opening database [C:\PADS Projects\DxProjects\BMS_v2_3\database]
+[2017.05.12 14:28:26] [0000m.00s.161ms] [0] iCDB Server PI: Database [C:\PADS Projects\DxProjects\BMS_v2_3\database] opened
+[2017.05.12 14:28:26] [0000m.00s.180ms] [0] iCDB Database: Checking existence of constraint definitions
+[2017.05.12 14:28:26] [0000m.00s.180ms] [0] iCDB Database: Checking constraint definitions version
+[2017.05.12 14:28:26] [0000m.00s.242ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.56] up to date
+[2017.05.12 14:28:26] [0000m.00s.256ms] [0] iCDB Server PI: Initializing plugins
+[2017.05.12 14:28:26] [0000m.00s.256ms] [0] iCDB Server PI: Plugins initialized
+[2017.05.12 14:28:26] [0000m.00s.256ms] [0] S: iCDB database loaded
+[2017.05.12 14:28:26] [0000m.00s.258ms] [0] S: Starting threads
+[2017.05.12 14:28:26] [0000m.00s.258ms] [0] BT: Listening for broadcast messages on port [10000]
+[2017.05.12 14:28:26] [0000m.00s.258ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2017.05.12 14:28:26] [0000m.00s.259ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2017.05.12 14:28:26] [0000m.00s.261ms] [0] IT: Session [1886] for host [LAPTOP-48928JDC] user [Chris] with process ID [14300] created
+[2017.05.12 14:28:26] [0000m.00s.265ms] [1] SC[1886]: Registered sub-client [PADSLayout] with ID [1] for session ID [1886] host [LAPTOP-48928JDC] user [Chris] process ID [14300]
+[2017.05.12 14:28:26] [0000m.00s.266ms] [0] MWT: WindowProc: WM_NCCREATE
+[2017.05.12 14:28:26] [0000m.00s.308ms] [1] SC[1886]: UnRegistered sub-client [PADSLayout] with ID [1] for session ID [1886] host [LAPTOP-48928JDC] user [Chris] process ID [14300]
+[2017.05.12 14:28:26] [0000m.00s.369ms] [1] CMT: There are [1] clients now: 1886
+[2017.05.12 14:28:26] [0000m.00s.370ms] [1] CMT: Removed client [1886]
+[2017.05.12 14:28:26] [0000m.00s.370ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.05.12 14:28:27] [0000m.00s.848ms] [0] IT: Session [1887] for host [LAPTOP-48928JDC] user [Chris] with process ID [14300] created
+[2017.05.12 14:28:27] [0000m.00s.849ms] [1] SC[1887]: Registered sub-client [PADSLayout] with ID [1] for session ID [1887] host [LAPTOP-48928JDC] user [Chris] process ID [14300]
+[2017.05.12 14:28:27] [0000m.00s.887ms] [1] SC[1887]: Registered sub-client [iCESPI.PADSLayout] with ID [2] for session ID [1887] host [LAPTOP-48928JDC] user [Chris] process ID [14300]
+[2017.05.12 15:55:36] [0087m.10s.248ms] [0] IT: Session [1888] for host [LAPTOP-48928JDC] user [Chris] with process ID [11232] created
+[2017.05.12 15:55:36] [0087m.10s.248ms] [1] ProjectBackupManager: Client [ClientData[ClientNetAddress[LAPTOP-48928JDC] # ClientUserName[Chris] # ClientProcessID[11232] # SessionID[1888]] # SubClientData[SubClientName[] # SubClientID[0]]] set project file (.prj): local path [C:\PADS Projects\DxProjects\BMS_v2_3\BMS_v2_3.prj], global path [C:\PADS Projects\DxProjects\BMS_v2_3\BMS_v2_3.prj]
+[2017.05.12 15:55:36] [0087m.10s.259ms] [1] SC[1888]: Registered sub-client [DxD] with ID [1] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:36] [0087m.10s.302ms] [1] CMT: There are [2] clients now: 1887, 1888
+[2017.05.12 15:55:36] [0087m.10s.310ms] [1] SC[1888]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:36] [0087m.10s.314ms] [1] SC[1888]: Registered sub-client [xprob] with ID [3] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:36] [0087m.10s.792ms] [1] SC[1888]: Registered sub-client [SymbolEditor] with ID [4] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:37] [0087m.10s.801ms] [1] SC[1888]: Registered sub-client [SelectionHolder] with ID [5] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:37] [0087m.10s.840ms] [1] SC[1888]: Registered sub-client [SystemDesignDll] with ID [6] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:37] [0087m.10s.851ms] [1] SC[1888]: UnRegistered sub-client [SystemDesignDll] with ID [6] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:37] [0087m.10s.856ms] [1] SC[1888]: Registered sub-client [SystemDesignDll] with ID [7] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:37] [0087m.11s.476ms] [1] SC[1888]: Registered sub-client [DesignSearcher2] with ID [8] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:37] [0087m.11s.496ms] [1] SC[1888]: Registered sub-client [HdlProject] with ID [9] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:37] [0087m.11s.507ms] [1] SC[1888]: Registered sub-client [Navigator] with ID [10] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:37] [0087m.11s.529ms] [1] SC[1888]: Registered sub-client [OutputWindow] with ID [11] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:37] [0087m.11s.535ms] [1] SC[1888]: Registered sub-client [PlaceDevice] with ID [12] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:38] [0087m.11s.965ms] [1] SC[1888]: Registered sub-client [LocalSymbolsDataProvider] with ID [13] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:38] [0087m.11s.976ms] [1] SC[1888]: Registered sub-client [SAE] with ID [14] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:38] [0087m.11s.982ms] [1] SC[1888]: Registered sub-client [CCZAddin] with ID [15] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:38] [0087m.11s.990ms] [1] SC[1888]: Registered sub-client [DxThumbnails] with ID [16] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:38] [0087m.11s.995ms] [1] SC[1888]: Registered sub-client [MyParts] with ID [17] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:38] [0087m.12s.015ms] [1] SC[1888]: Registered sub-client [PinsList] with ID [18] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:38] [0087m.12s.059ms] [1] SC[1888]: Registered sub-client [toolboxes] with ID [19] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:38] [0087m.12s.070ms] [1] SC[1888]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:464718768] with ID [20] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:38] [0087m.12s.112ms] [1] SC[1888]: Registered sub-client [SheetConnectorsCacheDxD:1494629738] with ID [21] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:38] [0087m.12s.155ms] [1] SC[1888]: Registered sub-client [NetsNamesCollectorDxD:1494629738] with ID [22] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:38] [0087m.12s.176ms] [1] SC[1888]: Registered sub-client [PartReplaceUtils] with ID [23] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:38] [0087m.12s.344ms] [1] SC[1888]: Registered sub-client [DxDbSearch] with ID [24] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 15:55:56] [0087m.29s.992ms] [0] DFAMT: File server access time: 71 us
+[2017.05.12 17:00:47] [0152m.21s.606ms] [1] SC[1887]: UnRegistered sub-client [iCESPI.PADSLayout] with ID [2] for session ID [1887] host [LAPTOP-48928JDC] user [Chris] process ID [14300]
+[2017.05.12 17:00:47] [0152m.21s.622ms] [1] SC[1887]: UnRegistered sub-client [PADSLayout] with ID [1] for session ID [1887] host [LAPTOP-48928JDC] user [Chris] process ID [14300]
+[2017.05.12 17:00:47] [0152m.21s.700ms] [1] CMT: Removed client [1887]
+[2017.05.12 17:00:47] [0152m.21s.700ms] [1] CMT: There are [1] clients now: 1888
+[2017.05.12 17:00:50] [0152m.24s.435ms] [1] SC[1888]: UnRegistered sub-client [SystemDesignDll] with ID [7] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:50] [0152m.24s.723ms] [1] SC[1888]: UnRegistered sub-client [DesignSearcher2] with ID [8] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:50] [0152m.24s.786ms] [1] SC[1888]: UnRegistered sub-client [Navigator] with ID [10] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:51] [0152m.24s.958ms] [1] SC[1888]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [13] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:51] [0152m.25s.286ms] [1] SC[1888]: UnRegistered sub-client [MyParts] with ID [17] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:51] [0152m.25s.286ms] [1] SC[1888]: UnRegistered sub-client [toolboxes] with ID [19] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:52] [0152m.26s.085ms] [1] SC[1888]: UnRegistered sub-client [SelectionHolder] with ID [5] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:52] [0152m.26s.085ms] [1] SC[1888]: UnRegistered sub-client [PartReplaceUtils] with ID [23] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:53] [0152m.27s.093ms] [1] SC[1888]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:464718768] with ID [20] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:53] [0152m.27s.093ms] [1] SC[1888]: UnRegistered sub-client [SheetConnectorsCacheDxD:1494629738] with ID [21] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:53] [0152m.27s.093ms] [1] SC[1888]: UnRegistered sub-client [NetsNamesCollectorDxD:1494629738] with ID [22] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:53] [0152m.27s.094ms] [1] SC[1888]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:53] [0152m.27s.095ms] [1] SC[1888]: UnRegistered sub-client [DxD] with ID [1] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:53] [0152m.27s.135ms] [1] SC[1888]: UnRegistered sub-client [xprob] with ID [3] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:53] [0152m.27s.135ms] [1] SC[1888]: UnRegistered sub-client [SymbolEditor] with ID [4] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:53] [0152m.27s.153ms] [1] SC[1888]: UnRegistered sub-client [OutputWindow] with ID [11] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:53] [0152m.27s.309ms] [1] SC[1888]: UnRegistered sub-client [DxDbSearch] with ID [24] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:53] [0152m.27s.421ms] [1] SC[1888]: UnRegistered sub-client [SAE] with ID [14] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:53] [0152m.27s.448ms] [1] SC[1888]: UnRegistered sub-client [CCZAddin] with ID [15] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:53] [0152m.27s.456ms] [1] SC[1888]: UnRegistered sub-client [DxThumbnails] with ID [16] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:57] [0152m.31s.310ms] [1] SC[1888]: UnRegistered sub-client [PinsList] with ID [18] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:57] [0152m.31s.376ms] [1] SC[1888]: UnRegistered sub-client [PlaceDevice] with ID [12] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:57] [0152m.31s.416ms] [1] SC[1888]: UnRegistered sub-client [HdlProject] with ID [9] for session ID [1888] host [LAPTOP-48928JDC] user [Chris] process ID [11232]
+[2017.05.12 17:00:57] [0152m.31s.512ms] [1] CMT: Removed client [1888]
+[2017.05.12 17:00:57] [0152m.31s.512ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.05.12 17:00:59] [0152m.32s.824ms] [0] CMT: Starting server auto-close
+[2017.05.12 17:00:59] [0152m.32s.915ms] [0] S: Closing server
+[2017.05.12 17:00:59] [0152m.33s.041ms] [0] iCDB Server PI: Closing plugins
+[2017.05.12 17:00:59] [0152m.33s.041ms] [0] iCDB Server PI: Plugins closed
+[2017.05.12 17:00:59] [0152m.33s.042ms] [0] iCDB Server PI: Unloading database
+[2017.05.12 17:00:59] [0152m.33s.042ms] [0] iCDB Server PI: Saving storage
+[2017.05.12 17:00:59] [0152m.33s.042ms] [0] iCDB Server PI: Closing database
+[2017.05.12 17:00:59] [0152m.33s.070ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[0%] data[99%]
+[2017.05.12 17:00:59] [0152m.33s.070ms] [1] iCDB Server PI: Stats: Database file size [435920 (425.7 kB)]
+[2017.05.12 17:00:59] [0152m.33s.108ms] [0] iCDB Server PI: Database closed
+[2017.05.12 17:00:59] [0152m.33s.108ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1917] ticks
+[2017.05.12 17:00:59] [0152m.33s.108ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [894] microseconds
+[2017.05.12 17:00:59] [0152m.33s.108ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [9]
+[2017.05.12 17:00:59] [0152m.33s.108ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [10063] commands per second
+[2017.05.12 17:00:59] [0152m.33s.136ms] [0] Single file [C:\PADS Projects\DxProjects\BMS_v2_3\database\icdb.dat] closed with size [435920 (425.7 kB)]
+[2017.05.12 17:00:59] [0152m.33s.317ms] [0] MWT: Destroy the shutdown block reason.
+[2017.05.12 17:00:59] [0152m.33s.318ms] [0] MWT: STOP
+[2017.05.12 17:00:59] [0152m.33s.318ms] [0] S: STOP

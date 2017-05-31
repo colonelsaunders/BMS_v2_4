@@ -1,0 +1,100 @@
+
+_______________________________________________________________________________ Log session started at: Friday, October 28, 2016 18:17:47
+[Layout->CM] [Addition] via STANDARDVIA
+
+                                                                         Total: Informational notifications - 1
+
+_______________________________________________________________________________ Log session started at: Friday, October 28, 2016 18:17:47
+[Layout->CM] [Addition] via span Through
+[Layout->CM] [Addition] default via STANDARDVIA to via span Through
+[Layout->CM] [Addition] allowed via STANDARDVIA to via span Through
+
+                                                                         Total: Informational notifications - 3
+
+_______________________________________________________________________________ Log session started at: Thursday, November 10, 2016 08:50:40
+[Layout->CM] [Addition] via STITCHVIA
+
+                                                                         Total: Informational notifications - 1
+
+_______________________________________________________________________________ Log session started at: Thursday, November 10, 2016 08:50:40
+[Layout->CM] [Addition] allowed via STITCHVIA to via span Through
+
+                                                                         Total: Informational notifications - 1
+
+_______________________________________________________________________________ Log session started at: Thursday, November 10, 2016 08:58:59
+[Layout->CM] [Modification] default via from STANDARDVIA to STITCHVIA in via span Through
+
+                                                                         Total: Informational notifications - 1
+
+_______________________________________________________________________________ Log session started at: Thursday, November 10, 2016 12:58:24
+[Layout->CM] [Modification] default via from STITCHVIA to STANDARDVIA in via span Through
+
+                                                                         Total: Informational notifications - 1
+
+_______________________________________________________________________________ Log session started at: Thursday, November 10, 2016 13:08:45
+[Layout->CM] [Modification] default via from STANDARDVIA to STITCHVIA in via span Through
+
+                                                                         Total: Informational notifications - 1
+
+_______________________________________________________________________________ Log session started at: Thursday, November 10, 2016 13:12:16
+[Layout->CM] [Modification] default via from STITCHVIA to STANDARDVIA in via span Through
+
+                                                                         Total: Informational notifications - 1
+
+_______________________________________________________________________________ Log session started at: Thursday, December 15, 2016 15:58:22
+< iCESPI function call >
+< iCESPI function call >
+
+                                                                         Total: Informational notifications - 2
+
+_______________________________________________________________________________ Log session started at: Thursday, December 15, 2016 15:58:39
+< iCESPI function call >
+< iCESPI function call >
+
+                                                                         Total: Informational notifications - 2
+
+_______________________________________________________________________________ Log session started at: Thursday, December 15, 2016 15:58:54
+< iCESPI function call >
+< iCESPI function call >
+
+                                                                         Total: Informational notifications - 2
+
+_______________________________________________________________________________ Log session started at: Thursday, March 09, 2017 08:39:19
+[Layout->CM] [Addition] via TESTPOINTVIA
+
+                                                                         Total: Informational notifications - 1
+
+_______________________________________________________________________________ Log session started at: Thursday, March 09, 2017 08:39:19
+[Layout->CM] [Addition] allowed via TESTPOINTVIA to via span Through
+
+                                                                         Total: Informational notifications - 1
+
+_______________________________________________________________________________ Log session started at: Sunday, April 30, 2017 14:53:50
+[Layout->CM] [Deletion] via TESTPOINTVIA
+
+                                                                         Total: Informational notifications - 1
+
+_______________________________________________________________________________ Log session started at: Sunday, April 30, 2017 14:54:10
+[Layout->CM] [Addition] via TINYVIA
+
+                                                                         Total: Informational notifications - 1
+
+_______________________________________________________________________________ Log session started at: Sunday, April 30, 2017 14:54:10
+[Layout->CM] [Addition] allowed via TINYVIA to via span Through
+
+                                                                         Total: Informational notifications - 1
+
+_______________________________________________________________________________ Log session started at: Sunday, April 30, 2017 15:14:16
+[Layout->CM] [Modification] default via from STANDARDVIA to NR_STANDARDVIA in via span Through
+
+                                                                         Total: Informational notifications - 1
+
+_______________________________________________________________________________ Log session started at: Sunday, April 30, 2017 15:14:16
+[Layout->CM] [Addition] via NR_STANDARDVIA
+
+                                                                         Total: Informational notifications - 1
+
+_______________________________________________________________________________ Log session started at: Sunday, April 30, 2017 15:14:16
+[Layout->CM] [Addition] allowed via NR_STANDARDVIA to via span Through
+
+                                                                         Total: Informational notifications - 1

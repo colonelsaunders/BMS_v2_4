@@ -1,0 +1,552 @@
+
+                                    Packager
+                                    --------
+
+                      11:30 AM Thursday, December 15, 2016
+     Job Name: C:\PADS Projects\DxProjects\V2_BMS_scratch\V2_BMS_scratch.prj
+
+
+     Packager     Version: 020806.00
+
+        Commandline is: "C:\MentorGraphics\PADSVX.2\SDD_HOME\wg\win32\bin\package.exe -j"C:\PADS Projects\DxProjects\V2_BMS_scratch\V2_BMS_scratch.prj" -nBoard1 -k -CleanBuild"
+
+     The Common Database is at "C:\PADS Projects\DxProjects\V2_BMS_scratch\database".
+
+     The Root of this design is "Schematic1".
+
+     The Front End Snapshot of this design is "DxD".
+
+     The PCB Design Path of this design is at "C:\PADS Projects\DxProjects\V2_BMS_scratch\Board2.pcb".
+
+     The Central Library is at "C:\MentorGraphics\PADSVX.2\SDD_HOME\Libraries\xDX_Designer\StarterLibrary\StarterLibrary.lmc".
+
+     Unable to determine the Disable Repackage status.
+     !Repackaging will be allowed!
+
+     A new Target PDB will be created from the Central Library to satisfy the parts
+      requirements of the iCDB.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+     The cross mapping of symbol pin names to Part Number pin
+      numbers will be checked for packaged symbols and mapped correctly
+      for unpackaged symbols.
+
+     Properties that have been checked off in the Property Definition Editor
+      found at Library Manager/Common Properties will be checked for value
+      differences between the PartsDB and the non-null properties on symbols.
+     Those properties checked off will be transferred from the PartsDB to all
+      symbols, both packaged and unpackaged.  However, the property values
+      transferred will be limited to the precision specified in the Notation
+      Settings dialog.
+     The following properties were checked off in the Property Definition Editor:
+       "PinLabel"
+       "System Component"
+       "Pkg Group"
+       "Connector Mating Part"
+       "Connector Gender"
+       "EPFIXEDWIDTH"
+       "EPFIXEDLENGTH"
+       "Term"
+       "SIM_MODEL"
+       "SIM_MODEL_FILE"
+       "Array Component"
+       "Use Verilog"
+       "Order"
+       "Parametric"
+       "Value2"
+       "Tech"
+       "DFT.Nail Number"
+       "DFT.Nail Diameter"
+       "Voltage"
+       "PowerGround"
+       "DFT.Nail Count Per Net"
+       "UNIT"
+       "$$Internal_system_attribute_device_mapped_to_$$"
+       "SYMTAG"
+       "HyperLynx.Library"
+       "ROTATION"
+       "QUAD_MODEL"
+       "PKG_LOCK"
+       "NC"
+       "Manufacturer #2"
+       "Manufacturer #1"
+       "HyperLynx.Model"
+       "GLUE"
+       "Geometry.Height"
+       "Drawing Title"
+       "Drawing Revision"
+       "RatedPower"
+       "SupplierPN"
+       "IBIS"
+       "Part Label"
+       "VHDL Model"
+       "Verilog Model"
+       "Tolerance"
+       "Part Number"
+       "Value"
+       "Part Name"
+
+	Checking for errors in the ICDB...
+
+	No errors found.  Proceeding with packaging...
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Integration\LocalPartsDB.pdb
+
+     Number of Part Numbers: 26
+          Part Numb: ACS770LCB -> Vend Part: ACS770LCB 
+          Part Numb: AFBR-5972Z -> Vend Part: AFBR-5972Z 
+          Part Numb: CGRID-2-HORIZ -> Vend Part: CGRID-2-HORIZ 
+          Part Numb: CPC1510 -> Vend Part: CPC1510 
+          Part Numb: C0603-105-16-10 -> Vend Part: C0603-105-16-10 
+          Part Numb: DIGIKEY_BAT46W_7FDICT_ND -> Vend Part:  
+          Part Numb: DIGIKEY_FZT653CT_ND -> Vend Part: DIGIKEY_FZT653CT_ND 
+          Part Numb: DIGIKEY_LM3480IM3_3_3_NOPBCT_ND -> Vend Part: DIGIKEY_LM3480IM3_3_3_NOPBCT_ND 
+          Part Numb: DIGIKEY_PCE3427CT_ND -> Vend Part:  
+          Part Numb: DIGIKEY_RS1B_FDICT_ND -> Vend Part:  
+          Part Numb: DIGIKEY_SI2303CDS_T1_GE3CT_ND -> Vend Part: DIGIKEY_SI2303CDS_T1_GE3CT_ND 
+          Part Numb: DIGIKEY_SRN1060_151MCT_ND -> Vend Part:  
+          Part Numb: DIGIKEY_445_6840_6_ND -> Vend Part:  
+          Part Numb: DIGIKEY_490_3373_1_ND -> Vend Part:  
+          Part Numb: HX1188NLT -> Vend Part: HX1188NLT 
+          Part Numb: LITE-ON_LTST-C190KGKT -> Vend Part: LITE-ON_LTST-C190KGKT 
+          Part Numb: LITTELFUSE_BF1 -> Vend Part: LITTELFUSE_BF1 
+          Part Numb: LTC6804-1 -> Vend Part: LTC6804-1 
+          Part Numb: LTC7138 -> Vend Part: LTC7138 
+          Part Numb: MURATA_GCM188R71E104KA57D -> Vend Part: MURATA_GCM188R71E104KA57D 
+          Part Numb: NIC_NRC100J330TRF -> Vend Part: NIC_NRC100J330TRF 
+          Part Numb: R0603-100-5-025 -> Vend Part: R0603-100-5-025 
+          Part Numb: WEIDMULLER_16PIN_TB -> Vend Part: WEIDMULLER_16PIN_TB 
+          Part Numb: 5MM_MOUNT_PAD -> Vend Part: 5MM_MOUNT_PAD 
+          Part Numb: 150MIL_NP_HOLE -> Vend Part: 150MIL_NP_HOLE 
+          Part Numb: 61083-041402LF -> Vend Part: 61083-041402LF 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between non-null symbol properties and PartsDB properties,
+      but only for those properties checked off in the Property Definition Editor
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I207:<!#!><objindex>576461216159891483</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I212:<!#!><objindex>576461211864924187</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I209:<!#!><objindex>576461207569956891</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I208:<!#!><objindex>576461203274989595</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I205:<!#!><objindex>576461198980022299</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I204:<!#!><objindex>576461194685055003</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I203:<!#!><objindex>576461190390087707</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I201:<!#!><objindex>576461168915251227</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I202:<!#!><objindex>576461156030349339</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I2529:<!#!><objindex>576460838202769423</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I2524:<!#!><objindex>576460833907802127</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I2519:<!#!><objindex>576460829612834831</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I2514:<!#!><objindex>576460825317867535</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I2509:<!#!><objindex>576460821022900239</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I2504:<!#!><objindex>576460816727932943</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I2499:<!#!><objindex>576460812432965647</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I2494:<!#!><objindex>576460808137998351</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I2489:<!#!><objindex>576460803843031055</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I2484:<!#!><objindex>576460799548063759</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I2479:<!#!><objindex>576460795253096463</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I2474:<!#!><objindex>576460790958129167</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = LITE-ON_LTST-C190KGKT
+                        Symbol Property: Part Name = LITE-ON LTST-C190KGKT
+     Limited Precision PartsDB Property: Part Name = LITE-ON_LTST-C190KGKT
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I148:<!#!><objindex>576461379368648731</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I142:<!#!><objindex>576461375073681435</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I172:<!#!><objindex>576461366483746843</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I178:<!#!><objindex>576461323534073883</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I130:<!#!><objindex>576461297764270107</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I124:<!#!><objindex>576461284879368219</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I154:<!#!><objindex>576461121670610971</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I166:<!#!><objindex>576461108785709083</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I160:<!#!><objindex>576461100195774491</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I190:<!#!><objindex>576460949871919131</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I184:<!#!><objindex>576460945576951835</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I136:<!#!><objindex>576460919807148059</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I1852:<!#!><objindex>576461473857929218</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I1734:<!#!><objindex>576461439498190850</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I1793:<!#!><objindex>576461418023354370</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I1675:<!#!><objindex>576461405138452482</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I1616:<!#!><objindex>576461357893812226</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I2206:<!#!><objindex>576461340713943042</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I1970:<!#!><objindex>576461306354204674</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I2147:<!#!><objindex>576461250519629826</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I2088:<!#!><objindex>576461229044793346</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I2029:<!#!><objindex>576461224749826050</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I1911:<!#!><objindex>576461216159891458</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I115:<!#!><objindex>576460790958129154</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = NIC_NRC100J330TRF
+                        Symbol Property: Part Name = NIC NRC100J330TRF
+     Limited Precision PartsDB Property: Part Name = NIC_NRC100J330TRF
+
+    WARNING: Block Schematic1, Page Current Sense and Thermistors, Symbol $3I505:<!#!><objindex>576460760893358668</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = MURATA_GCM188R71E104KA57D
+                        Symbol Property: Part Name = MURATA GCM188R71E104KA57D
+     Limited Precision PartsDB Property: Part Name = MURATA_GCM188R71E104KA57D
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I217:<!#!><objindex>576461250519629851</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = MURATA_GCM188R71E104KA57D
+                        Symbol Property: Part Name = MURATA GCM188R71E104KA57D
+     Limited Precision PartsDB Property: Part Name = MURATA_GCM188R71E104KA57D
+
+    WARNING: Block Schematic1, Page Upper BMS chip, Symbol $2I214:<!#!><objindex>576461241929695259</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = MURATA_GCM188R71E104KA57D
+                        Symbol Property: Part Name = MURATA GCM188R71E104KA57D
+     Limited Precision PartsDB Property: Part Name = MURATA_GCM188R71E104KA57D
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I2622:<!#!><objindex>576460773778259995</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = MURATA_GCM188R71E104KA57D
+                        Symbol Property: Part Name = MURATA GCM188R71E104KA57D
+     Limited Precision PartsDB Property: Part Name = MURATA_GCM188R71E104KA57D
+
+    WARNING: Block Schematic1, Page Lower BMS chip, Symbol $1I2604:<!#!><objindex>576460760893358107</objindex>
+      Symbol property changed to limited precision PartsDB value:
+                        Resolved PartNumber = MURATA_GCM188R71E104KA57D
+                        Symbol Property: Part Name = MURATA GCM188R71E104KA57D
+     Limited Precision PartsDB Property: Part Name = MURATA_GCM188R71E104KA57D
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+    PDB ERROR:  There is no Gate data
+      on part number LITE-ON_LTST-C190KGKT.
+      If a Parts DataBase other than the local one is corrected,
+      please be sure to run Packager in the overwrite mode or
+      Forward Annotation in the 'Replace Local Parts' mode.  Otherwise, be
+      sure not to use these modes or the corrections will be lost.
+
+     ERROR:  Bad data for Part Number: LITE-ON_LTST-C190KGKT in the
+      Parts DataBase for symbols with Part Name: LITE-ON LTST-C190KGKT and Part Label: (null).
+       The relevant symbols are:
+        Block Schematic1, Page Upper BMS chip, Symbol $2I211 <!#!><objindex>576461237634727963</objindex>
+        Block Schematic1, Page Upper BMS chip, Symbol $2I206 <!#!><objindex>576461233339760667</objindex>
+        Block Schematic1, Page Upper BMS chip, Symbol $2I210 <!#!><objindex>576461229044793371</objindex>
+        Block Schematic1, Page Upper BMS chip, Symbol $2I207 <!#!><objindex>576461216159891483</objindex>
+        Block Schematic1, Page Upper BMS chip, Symbol $2I212 <!#!><objindex>576461211864924187</objindex>
+        Block Schematic1, Page Upper BMS chip, Symbol $2I209 <!#!><objindex>576461207569956891</objindex>
+        Block Schematic1, Page Upper BMS chip, Symbol $2I208 <!#!><objindex>576461203274989595</objindex>
+        Block Schematic1, Page Upper BMS chip, Symbol $2I205 <!#!><objindex>576461198980022299</objindex>
+        Block Schematic1, Page Upper BMS chip, Symbol $2I204 <!#!><objindex>576461194685055003</objindex>
+        Block Schematic1, Page Upper BMS chip, Symbol $2I203 <!#!><objindex>576461190390087707</objindex>
+        Block Schematic1, Page Upper BMS chip, Symbol $2I201 <!#!><objindex>576461168915251227</objindex>
+        Block Schematic1, Page Upper BMS chip, Symbol $2I202 <!#!><objindex>576461156030349339</objindex>
+        Block Schematic1, Page Lower BMS chip, Symbol $1I2529 <!#!><objindex>576460838202769423</objindex>
+        Block Schematic1, Page Lower BMS chip, Symbol $1I2524 <!#!><objindex>576460833907802127</objindex>
+        Block Schematic1, Page Lower BMS chip, Symbol $1I2519 <!#!><objindex>576460829612834831</objindex>
+        Block Schematic1, Page Lower BMS chip, Symbol $1I2514 <!#!><objindex>576460825317867535</objindex>
+        Block Schematic1, Page Lower BMS chip, Symbol $1I2509 <!#!><objindex>576460821022900239</objindex>
+        Block Schematic1, Page Lower BMS chip, Symbol $1I2504 <!#!><objindex>576460816727932943</objindex>
+        Block Schematic1, Page Lower BMS chip, Symbol $1I2499 <!#!><objindex>576460812432965647</objindex>
+        Block Schematic1, Page Lower BMS chip, Symbol $1I2494 <!#!><objindex>576460808137998351</objindex>
+        Block Schematic1, Page Lower BMS chip, Symbol $1I2489 <!#!><objindex>576460803843031055</objindex>
+        Block Schematic1, Page Lower BMS chip, Symbol $1I2484 <!#!><objindex>576460799548063759</objindex>
+        Block Schematic1, Page Lower BMS chip, Symbol $1I2479 <!#!><objindex>576460795253096463</objindex>
+        Block Schematic1, Page Lower BMS chip, Symbol $1I2474 <!#!><objindex>576460790958129167</objindex>
+
+     ERROR:  There is no Part Number: DIGIKEY_BAT46W_7FDICT_ND in the Parts
+      DataBase for symbols with Part Name: DIGIKEY_BAT46W_7FDICT_ND and Part Label: (null).
+      [Please add the Part Number to the PDB either directly
+       or by having the project file point to a PDB that contains it.]
+       The relevant symbols are:
+        Block Schematic1, Page Upper BMS chip, Symbol $2I200 <!#!><objindex>576461164620283931</objindex>
+        Block Schematic1, Page Lower BMS chip, Symbol $1I2410 <!#!><objindex>576460782368194575</objindex>
+
+    PDB ERROR:  There is no Gate data
+      on part number MURATA_GCM188R71E104KA57D.
+      If a Parts DataBase other than the local one is corrected,
+      please be sure to run Packager in the overwrite mode or
+      Forward Annotation in the 'Replace Local Parts' mode.  Otherwise, be
+      sure not to use these modes or the corrections will be lost.
+
+     ERROR:  Bad data for Part Number: MURATA_GCM188R71E104KA57D in the
+      Parts DataBase for symbols with Part Name: MURATA GCM188R71E104KA57D and Part Label: (null).
+       The relevant symbols are:
+        Block Schematic1, Page Current Sense and Thermistors, Symbol $3I505 <!#!><objindex>576460760893358668</objindex>
+        Block Schematic1, Page Upper BMS chip, Symbol $2I217 <!#!><objindex>576461250519629851</objindex>
+        Block Schematic1, Page Upper BMS chip, Symbol $2I214 <!#!><objindex>576461241929695259</objindex>
+        Block Schematic1, Page Lower BMS chip, Symbol $1I2622 <!#!><objindex>576460773778259995</objindex>
+        Block Schematic1, Page Lower BMS chip, Symbol $1I2604 <!#!><objindex>576460760893358107</objindex>
+
+     ERROR:  There is no Part Number: DIGIKEY_PCE3427CT_ND in the Parts
+      DataBase for symbols with Part Name: DIGIKEY_PCE3427CT_ND and Part Label: (null).
+      [Please add the Part Number to the PDB either directly
+       or by having the project file point to a PDB that contains it.]
+       The relevant symbols are:
+        Block Schematic1, Page Power Regulation, Symbol $4I39 <!#!><objindex>576460949871919162</objindex>
+
+     ERROR:  There is no Part Number: DIGIKEY_445_6840_6_ND in the Parts
+      DataBase for symbols with Part Name: DIGIKEY_445_6840_6_ND and Part Label: (null).
+      [Please add the Part Number to the PDB either directly
+       or by having the project file point to a PDB that contains it.]
+       The relevant symbols are:
+        Block Schematic1, Page Power Regulation, Symbol $4I53 <!#!><objindex>576460958461853754</objindex>
+
+     ERROR:  There is no Part Number: DIGIKEY_RS1B_FDICT_ND in the Parts
+      DataBase for symbols with Part Name: DIGIKEY_RS1B_FDICT_ND and Part Label: (null).
+      [Please add the Part Number to the PDB either directly
+       or by having the project file point to a PDB that contains it.]
+       The relevant symbols are:
+        Block Schematic1, Page Power Regulation, Symbol $4I587 <!#!><objindex>576460773778260039</objindex>
+        Block Schematic1, Page Power Regulation, Symbol $4I395 <!#!><objindex>576461083015905338</objindex>
+
+     ERROR:  There is no Part Number: DIGIKEY_SRN1060_151MCT_ND in the Parts
+      DataBase for symbols with Part Name: DIGIKEY_SRN1060_151MCT_ND and Part Label: (null).
+      [Please add the Part Number to the PDB either directly
+       or by having the project file point to a PDB that contains it.]
+       The relevant symbols are:
+        Block Schematic1, Page Power Regulation, Symbol $4I410 <!#!><objindex>576461087310872634</objindex>
+
+     ERROR:  There is no Part Number: DIGIKEY_490_3373_1_ND in the Parts
+      DataBase for symbols with Part Name: DIGIKEY_490_3373_1_ND and Part Label: (null).
+      [Please add the Part Number to the PDB either directly
+       or by having the project file point to a PDB that contains it.]
+       The relevant symbols are:
+        Block Schematic1, Page Power Regulation, Symbol $4I453 <!#!><objindex>576461108785709114</objindex>
+        Block Schematic1, Page Power Regulation, Symbol $4I439 <!#!><objindex>576461104490741818</objindex>
+        Block Schematic1, Page Power Regulation, Symbol $4I432 <!#!><objindex>576461100195774522</objindex>
+        Block Schematic1, Page Power Regulation, Symbol $4I425 <!#!><objindex>576461095900807226</objindex>
+        Block Schematic1, Page Power Regulation, Symbol $4I418 <!#!><objindex>576461091605839930</objindex>
+
+     8 packaging errors have been found.
+      For those errors that only involve the application of wrong
+      pin numbers, either repackage the schematic by hand or
+      simply remove at least one pin number per symbol to enable
+      automatic packaging when you run this procedure again.
+
+
+
+     Testing of Packaging is being terminated with 8 errors and 50 warnings.
+      Design has NOT been packaged.
+
+     There have been 8 errors and 50 warnings.

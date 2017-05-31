@@ -1,0 +1,1035 @@
+                             Backward Annotation Pending Changes Report                             
+
+This file contains connectivity differences between PADS Layout PCB:
+	 "C:\PADS Projects\DxProjects\V2_BMS_scratch\Board1pos.pcb" 
+and PADS DX Designer project:
+	 "C:\PADS Projects\DxProjects\V2_BMS_scratch\V2_BMS_scratch.prj" 
+
+(If you click Backward Annotation indicator in Project Integration dialog, these changes will be sent
+ from PADS Layout PCB to PADS DX Designer project.)
+
+
+============================================ Components ============================================
+***** Added (25) *****
+   Ref-Des:                 R123 |   Part:       R0603-100-5-025 |   Decal:            <default>
+       |> Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+              |> Name: "Value" | Value: "56"
+   Ref-Des:                  C47 |   Part:       C0603-105-16-10 |   Decal:            <default>
+       |> Attributes:
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+              |> Name: "Value" | Value: "DNI"
+   Ref-Des:                  C45 |   Part:       C0603-105-16-10 |   Decal:            <default>
+       |> Attributes:
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+              |> Name: "Value" | Value: "DNI"
+   Ref-Des:                  C46 |   Part:       C0603-105-16-10 |   Decal:            <default>
+       |> Attributes:
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+              |> Name: "Value" | Value: "1uF"
+   Ref-Des:                   U4 |   Part:  DIGIKEY_SI2303CDS_T1_GE3CT_ND |   Decal:            <default>
+       |> Attributes:
+              |> Name: "Description" | Value: "Trans MOSFET P-CH 30V 1.9A"
+              |> Name: "Value" | Value: ""
+   Ref-Des:                  R40 |   Part:     NIC_NRC100J330TRF |   Decal:            <default>
+       |> Attributes:
+              |> Name: "Value" | Value: "33"
+   Ref-Des:                  R43 |   Part:     NIC_NRC100J330TRF |   Decal:            <default>
+       |> Attributes:
+              |> Name: "Value" | Value: "33"
+   Ref-Des:                  R44 |   Part:     NIC_NRC100J330TRF |   Decal:            <default>
+       |> Attributes:
+              |> Name: "Value" | Value: "33"
+   Ref-Des:                  R45 |   Part:     NIC_NRC100J330TRF |   Decal:            <default>
+       |> Attributes:
+              |> Name: "Value" | Value: "33"
+   Ref-Des:                  R46 |   Part:     NIC_NRC100J330TRF |   Decal:            <default>
+       |> Attributes:
+              |> Name: "Value" | Value: "33"
+   Ref-Des:                  R47 |   Part:     NIC_NRC100J330TRF |   Decal:            <default>
+       |> Attributes:
+              |> Name: "Value" | Value: "33"
+   Ref-Des:                  R48 |   Part:     NIC_NRC100J330TRF |   Decal:            <default>
+       |> Attributes:
+              |> Name: "Value" | Value: "33"
+   Ref-Des:                   R2 |   Part:     NIC_NRC100J330TRF |   Decal:            <default>
+       |> Attributes:
+              |> Name: "Value" | Value: "33"
+   Ref-Des:                  R38 |   Part:     NIC_NRC100J330TRF |   Decal:            <default>
+       |> Attributes:
+              |> Name: "Value" | Value: "33"
+   Ref-Des:                  R39 |   Part:     NIC_NRC100J330TRF |   Decal:            <default>
+       |> Attributes:
+              |> Name: "Value" | Value: "33"
+   Ref-Des:                 R128 |   Part:       R0603-100-5-025 |   Decal:            <default>
+       |> Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+              |> Name: "Value" | Value: "0"
+   Ref-Des:                 R127 |   Part:       R0603-100-5-025 |   Decal:            <default>
+       |> Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+              |> Name: "Value" | Value: "0"
+   Ref-Des:                 R129 |   Part:       R0603-100-5-025 |   Decal:            <default>
+       |> Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+              |> Name: "Value" | Value: "0"
+   Ref-Des:                 R133 |   Part:       R0603-100-5-025 |   Decal:            <default>
+       |> Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+              |> Name: "Value" | Value: "DNI"
+   Ref-Des:                 R134 |   Part:       R0603-100-5-025 |   Decal:            <default>
+       |> Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+              |> Name: "Value" | Value: "DNI"
+   Ref-Des:                 R172 |   Part:       R0603-100-5-025 |   Decal:            <default>
+       |> Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+              |> Name: "Value" | Value: "DNI"
+   Ref-Des:                 R173 |   Part:       R0603-100-5-025 |   Decal:            <default>
+       |> Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+              |> Name: "Value" | Value: "DNI"
+   Ref-Des:                 R174 |   Part:       R0603-100-5-025 |   Decal:            <default>
+       |> Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+              |> Name: "Value" | Value: "DNI"
+   Ref-Des:                 R175 |   Part:       R0603-100-5-025 |   Decal:            <default>
+       |> Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+              |> Name: "Value" | Value: "DNI"
+   Ref-Des:                  C44 |   Part:  DIGIKEY_445_6840_6_ND |   Decal:            <default>
+       |> Attributes:
+              |> Name: "Value" | Value: "2.2uF, 200v, 2220"
+
+***** Removed (27) *****
+   Ref-Des:                 R125 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                  U14 |   Part:  DIGIKEY_SI2303CDS_T1_GE3CT_ND |   Decal:            <default>
+   Ref-Des:                 R126 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                 R136 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                 R137 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                 R138 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                 R139 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                 R140 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                  U38 |   Part:  DIGIKEY_490_3373_1_ND |   Decal:            <default>
+   Ref-Des:                  R87 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                  R88 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                  R89 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                  R90 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                  R91 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                  R92 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                  R93 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                  R94 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                  R95 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                  R96 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                  R97 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                  R98 |   Part:       R0603-100-5-025 |   Decal:            <default>
+   Ref-Des:                 R165 |   Part:     NIC_NRC100J330TRF |   Decal:            <default>
+   Ref-Des:                 R166 |   Part:     NIC_NRC100J330TRF |   Decal:            <default>
+   Ref-Des:                  C31 |   Part:       C0603-105-16-10 |   Decal:            <default>
+   Ref-Des:                  C32 |   Part:       C0603-105-16-10 |   Decal:            <default>
+   Ref-Des:                  C48 |   Part:  MURATA_GCM188R71E104KA57D |   Decal:            <default>
+   Ref-Des:                  C49 |   Part:  MURATA_GCM188R71E104KA57D |   Decal:            <default>
+
+***** Modified (209) *****
+   R148
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "DNI" | Old Value: "1M"
+   U32
+       |> New Part Name: DIGIKEY_SRN1060_151MCT_ND | Old Part Name:      DIGIKEY_RS1B_FDICT_ND
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "150uH" | Old Value: "200V, 2A"
+   R153
+       |> New Part Name:           R0603-100-5-025 | Old Part Name:          NIC_NRC100J330TRF
+       |> New Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "DNI" | Old Value: "33"
+   R109
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "0" | Old Value: "DNI"
+   R49
+       |> Old Ref-Des: R37
+   R50
+       |> Old Ref-Des: R38
+   D13
+       |> Old Ref-Des: D25
+   R51
+       |> Old Ref-Des: R39
+   R52
+       |> Old Ref-Des: R40
+   R53
+       |> Old Ref-Des: R41
+   R54
+       |> Old Ref-Des: R42
+   C14
+       |> Old Ref-Des: C46
+   C15
+       |> Old Ref-Des: C47
+   R111
+       |> New Part Name:         NIC_NRC100J330TRF | Old Part Name:            R0603-100-5-025
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "33" | Old Value: "DNI"
+       |> Deleted Attributes:
+              |> Name: "CLASS"
+              |> Name: "Datasheet"
+              |> Name: "Description"
+              |> Name: "Manufacturer"
+              |> Name: "ManufacturerPN"
+              |> Name: "Supplier"
+              |> Name: "SupplierPN"
+   R112
+       |> New Part Name:         NIC_NRC100J330TRF | Old Part Name:            R0603-100-5-025
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "33" | Old Value: "DNI"
+       |> Deleted Attributes:
+              |> Name: "CLASS"
+              |> Name: "Datasheet"
+              |> Name: "Description"
+              |> Name: "Manufacturer"
+              |> Name: "ManufacturerPN"
+              |> Name: "Supplier"
+              |> Name: "SupplierPN"
+   R149
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "DNI" | Old Value: "56"
+   R124
+       |> Old Ref-Des: R150
+   R55
+       |> Old Ref-Des: R43
+   R56
+       |> Old Ref-Des: R44
+   R57
+       |> Old Ref-Des: R45
+   R58
+       |> Old Ref-Des: R46
+   R59
+       |> Old Ref-Des: R47
+   R60
+       |> Old Ref-Des: R48
+   R61
+       |> Old Ref-Des: R49
+   C16
+       |> Old Ref-Des: C14
+   C17
+       |> Old Ref-Des: C15
+   C18
+       |> Old Ref-Des: C16
+   U14
+       |> Old Ref-Des: U27
+   R125
+       |> Old Ref-Des: R151
+   R126
+       |> Old Ref-Des: R152
+   C42
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "1uF" | Old Value: "10nF"
+   C38
+       |> Old Ref-Des: C43
+   C39
+       |> Old Ref-Des: C44
+   C40
+       |> Old Ref-Des: C45
+   R157
+       |> Old Ref-Des: R133
+   R158
+       |> Old Ref-Des: R134
+   C43
+       |> Old Ref-Des: C50
+   C51
+       |> New Part Name:           C0603-105-16-10 | Old Part Name:      DIGIKEY_445_6840_6_ND
+       |> New Attributes:
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "1uF" | Old Value: "2.2uF, 200v, 2220"
+   R100
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "100" | Old Value: "0"
+   R101
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "100" | Old Value: "0"
+   R102
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "1k" | Old Value: "DNI"
+   R103
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "1k" | Old Value: "DNI"
+   R106
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "5k" | Old Value: "DNI"
+   R107
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "1M" | Old Value: "0"
+   R136
+       |> Old Ref-Des: R113
+   R137
+       |> Old Ref-Des: R114
+   R3
+       |> Old Ref-Des: R2
+   R4
+       |> Old Ref-Des: R3
+   R5
+       |> Old Ref-Des: R4
+   R6
+       |> Old Ref-Des: R5
+   R7
+       |> Old Ref-Des: R6
+   R8
+       |> Old Ref-Des: R7
+   R9
+       |> Old Ref-Des: R8
+   R10
+       |> Old Ref-Des: R9
+   R11
+       |> Old Ref-Des: R10
+   R12
+       |> Old Ref-Des: R11
+   R13
+       |> Old Ref-Des: R12
+   R14
+       |> Old Ref-Des: R13
+   R15
+       |> Old Ref-Des: R14
+   R16
+       |> Old Ref-Des: R15
+   R17
+       |> Old Ref-Des: R16
+   R18
+       |> Old Ref-Des: R17
+   R19
+       |> Old Ref-Des: R18
+   R20
+       |> Old Ref-Des: R19
+   R21
+       |> Old Ref-Des: R20
+   R22
+       |> Old Ref-Des: R21
+   R23
+       |> Old Ref-Des: R22
+   R24
+       |> Old Ref-Des: R23
+   R25
+       |> Old Ref-Des: R24
+   R26
+       |> Old Ref-Des: R25
+   R27
+       |> Old Ref-Des: R26
+   R28
+       |> Old Ref-Des: R27
+   R29
+       |> Old Ref-Des: R28
+   R30
+       |> Old Ref-Des: R29
+   R31
+       |> Old Ref-Des: R30
+   R32
+       |> Old Ref-Des: R31
+   R33
+       |> Old Ref-Des: R32
+   R34
+       |> Old Ref-Des: R33
+   R35
+       |> Old Ref-Des: R34
+   R36
+       |> Old Ref-Des: R35
+   R37
+       |> Old Ref-Des: R36
+   R138
+       |> Old Ref-Des: R115
+   R139
+       |> Old Ref-Des: R116
+   R140
+       |> Old Ref-Des: R117
+   R141
+       |> Old Ref-Des: R118
+   R142
+       |> Old Ref-Des: R119
+   R143
+       |> Old Ref-Des: R120
+   R144
+       |> Old Ref-Des: R121
+   R145
+       |> Old Ref-Des: R122
+   R146
+       |> Old Ref-Des: R123
+   R147
+       |> Old Ref-Des: R124
+   R154
+       |> New Part Name:           R0603-100-5-025 | Old Part Name:          NIC_NRC100J330TRF
+       |> New Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "DNI" | Old Value: "33"
+   R155
+       |> New Part Name:           R0603-100-5-025 | Old Part Name:          NIC_NRC100J330TRF
+       |> New Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "DNI" | Old Value: "33"
+   R156
+       |> New Part Name:           R0603-100-5-025 | Old Part Name:          NIC_NRC100J330TRF
+       |> New Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "0" | Old Value: "33"
+   R41
+       |> Old Ref-Des: R157
+   R42
+       |> Old Ref-Des: R158
+   R159
+       |> New Part Name:           R0603-100-5-025 | Old Part Name:          NIC_NRC100J330TRF
+       |> New Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "DNI" | Old Value: "33"
+   R160
+       |> New Part Name:           R0603-100-5-025 | Old Part Name:          NIC_NRC100J330TRF
+       |> New Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "0" | Old Value: "33"
+   R161
+       |> New Part Name:           R0603-100-5-025 | Old Part Name:          NIC_NRC100J330TRF
+       |> New Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "DNI" | Old Value: "33"
+   R162
+       |> New Part Name:           R0603-100-5-025 | Old Part Name:          NIC_NRC100J330TRF
+       |> New Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "DNI" | Old Value: "33"
+   R163
+       |> New Part Name:           R0603-100-5-025 | Old Part Name:          NIC_NRC100J330TRF
+       |> New Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "1M" | Old Value: "33"
+   R164
+       |> New Part Name:           R0603-100-5-025 | Old Part Name:          NIC_NRC100J330TRF
+       |> New Attributes:
+              |> Name: "CLASS" | Value: "RES"
+              |> Name: "Datasheet" | Value: ""
+              |> Name: "Description" | Value: ""
+              |> Name: "Manufacturer" | Value: ""
+              |> Name: "ManufacturerPN" | Value: ""
+              |> Name: "Supplier" | Value: ""
+              |> Name: "SupplierPN" | Value: ""
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "1k" | Old Value: "33"
+   U2
+       |> Old Ref-Des: U3
+   U3
+       |> Old Ref-Des: U4
+   R150
+       |> Old Ref-Des: R127
+   R151
+       |> Old Ref-Des: R128
+   R152
+       |> Old Ref-Des: R129
+   R135
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "0" | Old Value: "DNI"
+   R165
+       |> Old Ref-Des: R141
+   R166
+       |> Old Ref-Des: R142
+   R167
+       |> Old Ref-Des: R143
+   R168
+       |> Old Ref-Des: R144
+   R169
+       |> Old Ref-Des: R145
+   R170
+       |> Old Ref-Des: R146
+   R171
+       |> Old Ref-Des: R147
+   C35
+       |> New Part Name: MURATA_GCM188R71E104KA57D | Old Part Name:            C0603-105-16-10
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "100nF, 100V" | Old Value: "DNI"
+       |> Deleted Attributes:
+              |> Name: "Datasheet"
+              |> Name: "Description"
+              |> Name: "Manufacturer"
+              |> Name: "ManufacturerPN"
+              |> Name: "Supplier"
+              |> Name: "SupplierPN"
+   C36
+       |> New Part Name: MURATA_GCM188R71E104KA57D | Old Part Name:            C0603-105-16-10
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "100nF, 100V" | Old Value: "1uF"
+       |> Deleted Attributes:
+              |> Name: "Datasheet"
+              |> Name: "Description"
+              |> Name: "Manufacturer"
+              |> Name: "ManufacturerPN"
+              |> Name: "Supplier"
+              |> Name: "SupplierPN"
+   C37
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "10nF" | Old Value: "DNI"
+   C48
+       |> Old Ref-Des: C38
+   C49
+       |> Old Ref-Des: C39
+   C50
+       |> Old Ref-Des: C40
+   U31
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "" | Old Value: "200V, 2A"
+   U33
+       |> New Part Name:     DIGIKEY_490_3373_1_ND | Old Part Name:  DIGIKEY_SRN1060_151MCT_ND
+       |> Modified Attributes:
+              |> Name: "Value" | New Value: "22uF, 25V, 1206" | Old Value: "150uH"
+   U15
+       |> Old Ref-Des: U2
+   R62
+       |> Old Ref-Des: R50
+   R63
+       |> Old Ref-Des: R51
+   R64
+       |> Old Ref-Des: R52
+   R65
+       |> Old Ref-Des: R53
+   R66
+       |> Old Ref-Des: R54
+   R67
+       |> Old Ref-Des: R55
+   R68
+       |> Old Ref-Des: R56
+   R69
+       |> Old Ref-Des: R57
+   R70
+       |> Old Ref-Des: R58
+   R71
+       |> Old Ref-Des: R59
+   R72
+       |> Old Ref-Des: R60
+   R73
+       |> Old Ref-Des: R61
+   R74
+       |> Old Ref-Des: R62
+   R75
+       |> Old Ref-Des: R63
+   R76
+       |> Old Ref-Des: R64
+   R77
+       |> Old Ref-Des: R65
+   R78
+       |> Old Ref-Des: R66
+   R79
+       |> Old Ref-Des: R67
+   R80
+       |> Old Ref-Des: R68
+   R81
+       |> Old Ref-Des: R69
+   R82
+       |> Old Ref-Des: R70
+   R83
+       |> Old Ref-Des: R71
+   R84
+       |> Old Ref-Des: R72
+   R85
+       |> Old Ref-Des: R73
+   R86
+       |> Old Ref-Des: R74
+   R87
+       |> Old Ref-Des: R75
+   R88
+       |> Old Ref-Des: R76
+   R89
+       |> Old Ref-Des: R77
+   R90
+       |> Old Ref-Des: R78
+   R91
+       |> Old Ref-Des: R79
+   R92
+       |> Old Ref-Des: R80
+   R93
+       |> Old Ref-Des: R81
+   R94
+       |> Old Ref-Des: R82
+   R95
+       |> Old Ref-Des: R83
+   R96
+       |> Old Ref-Des: R84
+   R97
+       |> Old Ref-Des: R85
+   R98
+       |> Old Ref-Des: R86
+   D14
+       |> Old Ref-Des: D13
+   D15
+       |> Old Ref-Des: D14
+   D16
+       |> Old Ref-Des: D15
+   D17
+       |> Old Ref-Des: D16
+   D18
+       |> Old Ref-Des: D17
+   D19
+       |> Old Ref-Des: D18
+   D20
+       |> Old Ref-Des: D19
+   D21
+       |> Old Ref-Des: D20
+   D22
+       |> Old Ref-Des: D21
+   D23
+       |> Old Ref-Des: D22
+   D24
+       |> Old Ref-Des: D23
+   D25
+       |> Old Ref-Des: D24
+   R113
+       |> Old Ref-Des: R167
+   R114
+       |> Old Ref-Des: R168
+   R115
+       |> Old Ref-Des: R169
+   R116
+       |> Old Ref-Des: R170
+   R117
+       |> Old Ref-Des: R171
+   R118
+       |> Old Ref-Des: R172
+   R119
+       |> Old Ref-Des: R173
+   R120
+       |> Old Ref-Des: R174
+   R121
+       |> Old Ref-Des: R175
+   R122
+       |> Old Ref-Des: R176
+   U16
+       |> Old Ref-Des: U15
+   U17
+       |> Old Ref-Des: U16
+   U18
+       |> Old Ref-Des: U17
+   U19
+       |> Old Ref-Des: U18
+   U20
+       |> Old Ref-Des: U19
+   U21
+       |> Old Ref-Des: U20
+   U22
+       |> Old Ref-Des: U21
+   U23
+       |> Old Ref-Des: U22
+   U24
+       |> Old Ref-Des: U23
+   U25
+       |> Old Ref-Des: U24
+   U26
+       |> Old Ref-Des: U25
+   U27
+       |> Old Ref-Des: U26
+   C19
+       |> Old Ref-Des: C17
+   C20
+       |> Old Ref-Des: C18
+   C21
+       |> Old Ref-Des: C19
+   C22
+       |> Old Ref-Des: C20
+   C23
+       |> Old Ref-Des: C21
+   C24
+       |> Old Ref-Des: C22
+   C25
+       |> Old Ref-Des: C23
+   C26
+       |> Old Ref-Des: C24
+   C27
+       |> Old Ref-Des: C25
+   C28
+       |> Old Ref-Des: C26
+   C29
+       |> Old Ref-Des: C27
+   C30
+       |> Old Ref-Des: C28
+   C31
+       |> Old Ref-Des: C29
+   C32
+       |> Old Ref-Des: C30
+
+
+=============================================== Nets ===============================================
+***** No item is about to be added *****
+***** Removed (1) *****
+   Name:               $4N586 |   Pins:                 C36.1 C37.1 C38.1 R139.2 R140.1 R148.1 U32.1 
+
+***** Modified (77) *****
+   $1N127
+       |> Pins Connected: R2.1 
+       |> Pins Disconnected: R153.1
+   CELL12
+       |> Pins Connected: R135.2 
+       |> Pins Disconnected: R107.2
+   CELL11
+       |> Pins Connected: R2.2 
+       |> Pins Disconnected: R153.2
+   $1N1676
+       |> Pins Connected: R39.1 U4.3 
+       |> Pins Disconnected: R155.1 U5.3
+   ISO_GND
+       |> Pins Connected: C33.2 C35.2 C36.2 C42.2 R103.1 R105.2 R109.2 R148.2 R149.2 R99.2 
+       |> Pins Disconnected: C31.2 C32.2 C48.2 C49.2 R125.2 R126.2 R87.2 R91.1 R93.2 R97.2
+   CELL18
+       |> Pins Connected: R132.2 R133.1 
+       |> Pins Disconnected: R104.2 R105.1
+   $1N1617
+       |> Pins Connected: R38.1 
+       |> Pins Disconnected: R154.1
+   $1N1735
+       |> Pins Connected: R40.1 U5.3 
+       |> Pins Disconnected: R156.1 U6.3
+   $1N1742
+       |> Pins Connected: U5.1 
+       |> Pins Disconnected: U6.1
+   $1N1683
+       |> Pins Connected: U4.1 
+       |> Pins Disconnected: U5.1
+   CELL13
+       |> Pins Connected: R174.2 R175.1 
+       |> Pins Disconnected: R111.2 R112.1
+   $1N2155
+       |> Pins Connected: U12.1 
+       |> Pins Disconnected: U13.1
+   $1N2096
+       |> Pins Connected: U11.1 
+       |> Pins Disconnected: U12.1
+   CELL14
+       |> Pins Connected: R173.2 R174.1 
+       |> Pins Disconnected: R110.2 R111.1
+   CELL15
+       |> Pins Connected: R172.2 R173.1 
+       |> Pins Disconnected: R109.2 R110.1
+   $1N2148
+       |> Pins Connected: R47.1 U12.3 
+       |> Pins Disconnected: R163.1 U13.3
+   $1N2207
+       |> Pins Connected: R48.1 U13.3 
+       |> Pins Disconnected: R164.1 U14.3
+   $1N2214
+       |> Pins Connected: U13.1 
+       |> Pins Disconnected: U14.1
+   CELL16
+       |> Pins Connected: R134.2 R172.1 
+       |> Pins Disconnected: R106.2 R109.1
+   CELL17
+       |> Pins Connected: R133.2 R134.1 
+       |> Pins Disconnected: R105.2 R106.1
+   $1N1794
+       |> Pins Connected: U6.3 
+       |> Pins Disconnected: U7.3
+   CELL19
+       |> Pins Connected: R131.2 R132.1 
+       |> Pins Disconnected: R103.2 R104.1
+   $1N1860
+       |> Pins Connected: U7.1 
+       |> Pins Disconnected: U8.1
+   $1N1971
+       |> Pins Connected: R44.1 U9.3 
+       |> Pins Disconnected: R160.1 U10.3
+   GND
+       |> Pins Connected: C44.1 C45.2 C46.2 C47.2 C51.2 R160.2 R162.2 U33.1 
+       |> Pins Disconnected: C33.2 C35.2 C36.2 C42.2 C51.1 R136.2 R138.2 R148.2 U38.1
+   $1N1919
+       |> Pins Connected: U8.1 
+       |> Pins Disconnected: U9.1
+   CELL20
+       |> Pins Connected: R130.2 R131.1 
+       |> Pins Disconnected: R102.2 R103.1
+   CELL21
+       |> Pins Connected: R129.2 R130.1 
+       |> Pins Disconnected: R101.2 R102.1
+   $1N2030
+       |> Pins Connected: R45.1 U10.3 
+       |> Pins Disconnected: R161.1 U11.3
+   $1N2037
+       |> Pins Connected: U10.1 
+       |> Pins Disconnected: U11.1
+   CELL22
+       |> Pins Connected: R112.2 R127.2 R129.1 
+       |> Pins Disconnected: R101.1 R166.2 R99.2
+   CELL23
+       |> Pins Connected: R111.2 R127.1 R128.2 
+       |> Pins Disconnected: R100.2 R165.2 R99.1
+   IHP_LOWER
+       |> Pins Connected: R123.2 
+       |> Pins Disconnected: R149.2
+   CELL24
+       |> Pins Connected: R100.2 R101.2 R128.1 R156.1 
+       |> Pins Disconnected: R100.1 R108.1 R88.2 R89.2
+   $1N1912
+       |> Pins Connected: R43.1 U8.3 
+       |> Pins Disconnected: R159.1 U9.3
+   $1N1853
+       |> Pins Connected: U7.3 
+       |> Pins Disconnected: U8.3
+   $1N1978
+       |> Pins Connected: U9.1 
+       |> Pins Disconnected: U10.1
+   $1N2089
+       |> Pins Connected: R46.1 U11.3 
+       |> Pins Disconnected: R162.1 U12.3
+   $1N1801
+       |> Pins Connected: U6.1 
+       |> Pins Disconnected: U7.1
+   $2N12
+       |> Pins Connected: R111.1 
+       |> Pins Disconnected: R165.1
+   CELL9
+       |> Pins Connected: R39.2 U5.2 
+       |> Pins Disconnected: R155.2 U6.2
+   $2N16
+       |> Pins Connected: R112.1 
+       |> Pins Disconnected: R166.1
+   CELL8
+       |> Pins Connected: R40.2 U6.2 
+       |> Pins Disconnected: R156.2 U7.2
+   CELL10
+       |> Pins Connected: R38.2 U4.2 
+       |> Pins Disconnected: R154.2 U5.2
+   CELL7
+       |> Pins Connected: U7.2 
+       |> Pins Disconnected: U8.2
+   CELL5
+       |> Pins Connected: R43.2 U9.2 
+       |> Pins Disconnected: R159.2 U10.2
+   CELL6
+       |> Pins Connected: U8.2 
+       |> Pins Disconnected: U9.2
+   CELL4
+       |> Pins Connected: R44.2 U10.2 
+       |> Pins Disconnected: R160.2 U11.2
+   CELL2
+       |> Pins Connected: R46.2 U12.2 
+       |> Pins Disconnected: R162.2 U13.2
+   CELL3
+       |> Pins Connected: R45.2 U11.2 
+       |> Pins Disconnected: R161.2 U12.2
+   CELL1
+       |> Pins Connected: R47.2 U13.2 
+       |> Pins Disconnected: R163.2 U14.2
+   $2N87
+       |> Pins Connected: C35.1 R100.1 
+       |> Pins Disconnected: C48.1 R88.1
+   CELL0
+       |> Pins Connected: R48.2 
+       |> Pins Disconnected: R164.2
+   $2N95
+       |> Pins Connected: R102.1 R103.2 
+       |> Pins Disconnected: R90.1 R91.2
+   $2N105
+       |> Pins Connected: C36.1 R101.1 
+       |> Pins Disconnected: C49.1 R89.1
+   $2N93
+       |> Pins Connected: R102.2 
+       |> Pins Disconnected: R90.2
+   $2N98
+       |> Pins Connected: R105.1 R108.1 
+       |> Pins Disconnected: R93.1 R96.1
+   $2N109
+       |> Pins Connected: R109.1 R110.1 
+       |> Pins Disconnected: R97.1 R98.1
+   $2N104
+       |> Pins Connected: R104.1 
+       |> Pins Disconnected: R92.1
+   VREG_UPPER
+       |> Pins Connected: R104.2 R106.1 R107.1 R108.2 R110.2 R153.1 R154.1 R155.1 
+       |> Pins Disconnected: R130.1 R131.1 R132.1 R92.2 R94.1 R95.1 R96.2 R98.2
+   VREF2_UPPER
+       |> Pins Connected: C33.1 
+       |> Pins Disconnected: C31.1
+   $2N100
+       |> Pins Connected: R107.2 
+       |> Pins Disconnected: R95.2
+   $2N99
+       |> Pins Connected: R106.2 
+       |> Pins Disconnected: R94.2
+   GPIO1_UPPER
+       |> Pins Connected: R155.2 
+       |> Pins Disconnected: R132.2
+   GPIO2_UPPER
+       |> Pins Connected: R149.1 R154.2 
+       |> Pins Disconnected: R126.1 R131.2
+   GPIO3_UPPER
+       |> Pins Connected: R148.1 R153.2 
+       |> Pins Disconnected: R125.1 R130.2
+   $7N93
+       |> Pins Connected: C37.1 R123.1 
+       |> Pins Disconnected: C42.1 R149.1
+   $2N3564
+       |> Pins Connected: R135.1 R175.2 R99.1 
+       |> Pins Disconnected: R107.1 R112.2 R87.1
+   $3N419
+       |> Pins Connected: C41.1 
+       |> Pins Disconnected: C33.1
+   $3N469
+       |> Pins Connected: C42.1 
+       |> Pins Disconnected: C34.1
+   V_BATT
+       |> Pins Connected: C44.2 R156.2 R159.1 R161.1 R163.1 
+       |> Pins Disconnected: C51.2 R108.2 R135.1 R137.1 R139.1
+   $4N102
+       |> Pins Connected: R159.2 R160.1 
+       |> Pins Disconnected: R135.2 R136.1
+   $4N107
+       |> Pins Connected: C45.1 R161.2 R162.1 
+       |> Pins Disconnected: C35.1 R137.2 R138.1
+   $4N184
+       |> Pins Connected: R164.2 
+       |> Pins Disconnected: R140.2
+   $4N252
+       |> Pins Connected: C46.1 C47.1 C48.1 R163.2 R164.1 
+       |> Pins Disconnected: U32.2
+   +12V
+       |> Pins Connected: C51.1 U32.1 U33.2 
+       |> Pins Disconnected: C41.1 U33.1 U38.2
+   $4N408
+       |> Pins Connected: U32.2 
+       |> Pins Disconnected: U33.2
+
+
+====================================================================================================
+
+
+Report was generated at: Monday, October 31, 2016 19:26:46

@@ -1,0 +1,80 @@
+
+Schematic unused pins from : Packager  18-May-2017  16:53
+
+------------------------------------------------------------------------
+            Part/Reference             |          Unused pins
+                                       |  (G) - Gate, (P) - Partial Gate
+------------------------------------------------------------------------
+ Part ACS770LCB                        |
+ Part BM06B-GHS-TBT(LF)(SN)(N)         |
+ Part CAP_ARRAY_4X                     |
+ Part CPC1510                          |
+  U39                                  | (P)  3
+  U48                                  | (P)  3
+ Part C0603                            |
+ Part C0603-105-16-10                  |
+ Part C0805                            |
+ Part DIGIKEY_BAT46W_7FDICT_ND         |
+ Part DIGIKEY_FZT653CT_ND              |
+ Part DIGIKEY_LM3480IM3_3_3_NOPBCT_ND  |
+ Part DIGIKEY_RS1B_FDICT_ND            |
+ Part DIGIKEY_SI2303CDS_T1_GE3CT_ND    |
+ Part DIGIKEY_SRN1060_151MCT_ND        |
+ Part DIGIKEY_296_9215_2_ND            |
+  U71                                  | (P)  2 3 6 7 11 12 13 14 15
+                                       |  16
+ Part DIGIKEY_445_6840_6_ND            |
+ Part DIGIKEY_490_3373_1_ND            |
+ Part HDC1010                          |
+  U17                                  | (P)  C2
+ Part HFBR-1521Z                       |
+  U34                                  | (P)  3 4 5 8
+ Part HFBR-2521Z                       |
+  U35                                  | (P)  5 8
+ Part HX1188NLT                        |
+  U29                                  | (P)  4 5 6 7 8 9 10 11 12 13
+ Part LITE-ON_LTST-C190KGKT            |
+ Part LITTLEFUSE_SMD_1                 |
+ Part LTC6804-1                        |
+ Part LTC7138                          |
+  U30                                  | (P)  5
+ Part L0603                            |
+ Part NIC_NRC100J330TRF                |
+ Part NMOS_SOT_23_3                    |
+ Part NX3225GA-25MHZ                   |
+ Part R-US_R0805                       |
+ Part R0603                            |
+ Part R0603-100-5-025                  |
+ Part SN74LVC2G04DRLR_DUAL_INV         |
+ Part SN74LVC2G34DRLR_DUAL_BUFF        |
+ Part TFM-102-01-X-S-WT                |
+  J5                                   | (P)  6 7
+ Part TFM-105-01-XXX-D-REX-WT          |
+  J2                                   | (P)  3 4
+ Part TFM-110-01-XXX-D-REX-WT          |
+  J11                                  | (P)  7 13 14
+ Part TFM-115-01-XXX-D-REX-WT          |
+  J1                                   | (P)  23 24 G1 G3 G2 G4 25 26
+ Part TM4C129XNCZAD-212-BGA_6          |
+  U42                                  | (P)  V13 W13 V14 V15 M17 W18
+                                       |  V19 V18 W19 E13 C5 V5 R7 B17
+                                       |  C6 B6 F2 F1 M2 M1 L2 K3 C2 C1
+                                       |  D2 D1 A4 B4 B3 B2 H3 H2 G1 G2
+                                       |  A5 B5 A7 B7 N15 T14 V11 M16
+                                       |  K17 K15 V12 U14 R3 T2 U2 V2 C8
+                                       |  E7 H17 F16 F18 E17 N1 K5 J1 J2
+                                       |  K1 K2 U19 V17 V16 W16 G16 H19
+                                       |  G18 J18 H18 G19 C18 B18 K18
+                                       |  K19 L18 L19 M18 G15 N19 N18
+                                       |  C10 B11 A11 B10 A10 B9 T12 U12
+                                       |  D6 D7 B13 C12 D8 B12 B8 A8 E3
+                                       |  E2 H4 M4 A13 W12 U15 M3 N5 N4
+                                       |  N2 V8 P3 P2 V9 T13 U10 R13 P19
+                                       |  U18 T18 T19
+ Part TPS7A4533                        |
+ Part 5MM_MOUNT_PAD                    |
+ Part 150MIL_NP_HOLE                   |
+  U49                                  | (G)  1
+  U50                                  | (G)  1
+  U51                                  | (G)  1
+  U54                                  | (G)  1

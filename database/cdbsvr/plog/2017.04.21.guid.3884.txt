@@ -1,0 +1,29 @@
+[2017.04.21 16:35:49] [0093m.42s.217ms] [0] WELCOME
+[2017.04.21 16:35:49] [0093m.42s.217ms] [1] iCDB Database ver.2.200, jmoSXI5tfcQi0m1NxN3JKg, build:5060442 created 2016-08-17 14:30:09, sources stamp:jmoSXI5tfcQi0m1NxN3JKg
+[2017.04.21 16:35:49] [0093m.42s.217ms] [1] Copyright 2016 Mentor Graphics Corporation.  All Rights Reserved.
+[2017.04.21 16:35:49] [0093m.42s.217ms] [1] Base flow version [VX.2]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [1] Install Id [1409977], Flow Id [PADS VX.2], Full Flow Name [PADS VX.2], Exact Access Date [2016/05/01]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [1] Machine [LAPTOP-48928JDC]  User [Chris]  PID [3884]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [1] Current working dir [C:\PADS Projects\DxProjects\BMS_v2_3]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [1] PATH [C:\MentorGraphics\PADSVX.2\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2\MGC_HOME.ixn\lib;C:\MentorGraphics\PADSVX.2\SDD_HOME\wv\win32\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin;C:\MentorGraphics\PADSVX.2\SDD_HOME\CAMCAD;C:\Users\Chris\AppData\Local\Microsoft\WindowsApps;]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2\SDD_HOME] on file system [NTFS]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [1] SDD_PLATFORM [win32]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2\SDD_HOME\standard;]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [3] WARNING: Database [C:\PADS Projects\DxProjects\BMS_v2_3\database\icdb.dat] was manually copied
+[2017.04.21 16:35:49] [0093m.42s.218ms] [3] File change time:        [2017-04-21 16.34.52]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [3] File modification time:  [2017-04-21 10.31.02]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [3] Last change time:        [2017-04-21 10.31.02]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [3] Last database open information:
+[2017.04.21 16:35:49] [0093m.42s.218ms] [3] Time:             [2017-04-21 10.28.40]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [3] Location:         [C:\PADS Projects\DxProjects\BMS_v2_2_A\database\icdb.dat]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [3] Machine:          [LAPTOP-48928JDC]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [3] User:             [Chris]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [3] PID:              [6692]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [3] Application:      [iCDB Server]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [3] Operating system: [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [3] WARNING: Regenerating database GUID
+[2017.04.21 16:35:49] [0093m.42s.218ms] [3] Previous database GUID [85fc-5995-170a-96fb-9538-1c8e-5381-c850-07d2-d1e1-435f-ecb9]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [3] Current database GUID  [3a1a-8c47-2b84-7edd-5579-af8a-579a-f850-4c74-d1e1-435f-ecb9]
+[2017.04.21 16:35:49] [0093m.42s.218ms] [0] .
